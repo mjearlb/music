@@ -1,0 +1,50 @@
+11/28/21 - Milo Bauman & Andrew Mappes
+
+Venue: 
+Bridgewater
+260 Katydid Drive
+Athens, GA
+
+Set 1: (1:07:51)
+[1] Jam (0:00 - 2:18)
+[2] Travelin' Light (5:08 - 27:40)
+[3] Rift (27:48 - 29:15)
+[4] Punch You in the Eye (29:15 - 33:31)
+[5] Omega 3 (35:03 - 36:38)
+[6] On My Way (36:40 - 46:11)
+[7] Scarlet Begonias (46:20 - 1:01:10) -> 
+[8] Fire on the Mountain (1:01:10 - 1:07:23)
+
+Notes: 
+No microphone for vocals
+
+[6] Originally noted as "Andrew's new one".
+
+Reviews: 
+Milo: Pretty decent show, not amazing though
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2021/11:28:21
+    ├── 11:28:21 Setlist notes.txt
+    └── Jam - 11:28:21.band
+        ├── Alternatives
+        │   └── 000
+        │       ├── DisplayState.plist
+        │       ├── DisplayStateArchive
+        │       ├── MetaData.plist
+        │       ├── ProjectData
+        │       ├── Undo Data.nosync
+        │       └── WindowImage.jpg
+        ├── Media
+        │   ├── Audio Files
+        │   │   ├── Untitled_1#02.wav
+        │   │   ├── Untitled_2#02.wav
+        │   │   └── Untitled_3#03.wav
+        │   ├── Freeze Files
+        │   └── Freeze Files.nosync -> ./Freeze Files
+        ├── projectData
+        └── Resources
+            └── ProjectInformation.plist
+    
+    10 directories, 11 files

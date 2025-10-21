@@ -1,0 +1,32 @@
+file 'IMG_7120.mp4'
+file 'IMG_7121.mp4'
+file 'IMG_7122.mp4'
+file 'IMG_7123.mp4'
+file 'IMG_7124.mp4'
+file 'IMG_7125.mp4'
+file 'IMG_7127.mp4'
+file 'IMG_7128.mp4'
+file 'IMG_7130.mp4'
+file 'IMG_7132.mp4'
+
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2022/6:16:22
+    ├── 6-16-22 - Chapel Crossing Rd 2.m4a
+    ├── 6:16:22 - Setlist Notes.txt
+    ├── filelist.txt
+    └── Gallery
+        ├── IMG_7120.mp4
+        ├── IMG_7121.mp4
+        ├── IMG_7122.mp4
+        ├── IMG_7123.mp4
+        ├── IMG_7124.mp4
+        ├── IMG_7125.mp4
+        ├── IMG_7127.mp4
+        ├── IMG_7128.mp4
+        ├── IMG_7130.mp4
+        ├── IMG_7132.mp4
+        └── Resized_20220607_204905.jpeg
+    
+    2 directories, 14 files
