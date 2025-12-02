@@ -1,0 +1,53 @@
+4/22/21 - Milo Bauman & Andrew Mappes
+
+Venue: 
+130 Magnolia Street
+Athens, GA
+
+Set 1: (50:43)
+[1] Jam (0:43 - 5:55) -> 
+[2] Mr. Charlie (5:55 - 11:09)
+[3] Uncle John's Band (12:15 - 18:03)
+[4] Sugar Magnolia (18:58 - 23:51) -> 
+[5] Wharf Rat (23:51 - 31:33) ->
+[6] St. Stephen (31:33 - 38:40) ->
+[7] Road Trip (38:40 - 49:45)  
+
+Notes: 
+
+[4] Andrew wants “some song into Wharf Rat” and also that he needs some Milo singin’. So, Sugar Magnolia was chosen
+[7] Andrew Original. 
+
+Reviews: 
+Milo: 
+Good jam!
+
+[3] “Trial by fire.” Not in original track listing, so I guess this is like a hidden track. 
+[5] Banter (Andrew asks what effect I have, but it’s just my Strat pos. 2)
+[6] bad leads by me, messes up my singing as well. Decent jam leads by me though, especially into road trip
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2021/4:22:21
+    ├── 4:22:21 - Setlist Notes.txt
+    ├── Gallery
+    │   └── Jam - 4:22:21 Setlist.pdf
+    ├── Jam - 4:22:21 (Laptop Recording Export).wav
+    ├── Jam - 4:22:21 (Laptop Recording).band
+    │   ├── Alternatives
+    │   │   └── 000
+    │   │       ├── DisplayState.plist
+    │   │       ├── DisplayStateArchive
+    │   │       ├── MetaData.plist
+    │   │       ├── ProjectData
+    │   │       ├── Undo Data.nosync
+    │   │       └── WindowImage.jpg
+    │   ├── Media
+    │   │   └── Audio Files
+    │   │       └── Untitled_1#01.wav
+    │   ├── projectData
+    │   └── Resources
+    │       └── ProjectInformation.plist
+    └── Jam - 4:22:21 (Phone Recording).m4a
+    
+    9 directories, 12 files
