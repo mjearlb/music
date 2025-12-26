@@ -1,0 +1,45 @@
+9/22/21 Milo Bauman & Andrew Mappes
+
+Venue: 
+Bridgewater
+260 Katydid Drive
+Athens, GA
+
+Set 1: (30:20)
+[1] Jam (2:18 - 8:10) -> 
+[2] Ghost (8:10 - 17:22) -> 
+[3] Slave to the Traffic Light (17:22 - 21:03)
+[4] Reba (22:10 - 27:05)
+[5] Bathtub Gin (27:07 - 28:38)
+
+Notes: 
+[1] Doesn't really get started until 3:00. 
+[3] Debut. Skips from the intro directly to the jam. 
+[4] Jam section and outro. 
+
+Reviews: 
+Milo: 
+[2] Cool jam happening with wah around 13-16 minutes. 
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2021/9:22:21
+    ├── 9:22:21 Setlist Notes.txt
+    ├── Jam - 9:22:21.band
+    │   ├── Alternatives
+    │   │   └── 000
+    │   │       ├── DisplayState.plist
+    │   │       ├── DisplayStateArchive
+    │   │       ├── MetaData.plist
+    │   │       ├── ProjectData
+    │   │       ├── Undo Data.nosync
+    │   │       └── WindowImage.jpg
+    │   ├── Media
+    │   │   └── Audio Files
+    │   │       └── Untitled_1#01.wav
+    │   ├── projectData
+    │   └── Resources
+    │       └── ProjectInformation.plist
+    └── Jam - 9:22:21.mp3
+    
+    8 directories, 10 files
