@@ -1,0 +1,95 @@
+3/22/21 - Milo Bauman & Andrew Mappes
+
+Venue: 
+130 Magnolia Street
+Athens, GA
+
+Set 1: (1:02:34)
+[1] Reba (0:45 - 8:39)
+[2] Mr. Charlie (10:25 - 15:27) 
+[3] Sample in a Jar (18:08 - 24:01)
+[4] St. Stephen (25:26 - 28:57)
+[5] Mike's Song (30:10 - 39:30) -> 
+[6] Roggae (39:30 - 39:57) 
+[7] Playing in the Band (45:20 - 54:57)
+[8] Waste (57:11 - 1:02:08)
+
+Notes: 
+Timestamps are relative to the Laptop Recording. There is a handwritten setlist for this show. The reverse of that page appears to read
+next jam
+Fire on the Mountain
+Bird Song
+It is unknown what show that refers to. 
+
+[1] Reba starts from the jam section. Andrew takes rhythm, Milo takes lead. Jam section ends at 7:17. Milo teased Tattoo by The Who afterwards. 
+[2] Andrew teased Sample in a Jar and Roggae afterwards. 
+[6] Riff played incorrectly. 
+
+Reviews: 
+Milo: 
+[1] Honestly not bad. Somewhat coherent soloing. 
+[5] Interesting jam. Andrew's got a lot of ideas. Very type 2, Andrew leads it into Roggae at the end. 
+[7] Kinda rough around 47:00 - 47:30. 
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2021/3:22:21
+    ├── 3:22:21 Setlist Notes.txt
+    ├── Jam - 3:22:21 (Left Channel) (iPhone Recording)_data
+    │   └── eff
+    │       ├── d1b
+    │       │   ├── eff1b526.au
+    │       │   ├── eff1b8f3.au
+    │       │   ├── eff1b903.au
+    │       │   ├── eff1b9a2.au
+    │       │   └── eff1bf02.au
+    │       ├── d1c
+    │       │   ├── eff1c015.au
+    │       │   ├── eff1c0ed.au
+    │       │   ├── eff1c0f1.au
+    │       │   ├── eff1c0f4.au
+    │       │   ├── eff1c0fb.au
+    │       │   ├── eff1c198.au
+    │       │   ├── eff1c2a0.au
+    │       │   ├── eff1c380.au
+    │       │   ├── eff1c4c7.au
+    │       │   ├── eff1c524.au
+    │       │   ├── eff1c58d.au
+    │       │   ├── eff1c5d4.au
+    │       │   ├── eff1c602.au
+    │       │   ├── eff1c662.au
+    │       │   ├── eff1c672.au
+    │       │   ├── eff1c6a2.au
+    │       │   ├── eff1c70a.au
+    │       │   ├── eff1c7f2.au
+    │       │   ├── eff1c8e6.au
+    │       │   ├── eff1c8f0.au
+    │       │   ├── eff1c932.au
+    │       │   ├── eff1c9f3.au
+    │       │   ├── eff1ca61.au
+    │       │   ├── eff1ca9e.au
+    │       │   ├── eff1cac8.au
+    │       │   ├── eff1cae7.au
+    │       │   ├── eff1caee.au
+    │       │   ├── eff1cb02.au
+    │       │   ├── eff1cb04.au
+    │       │   ├── eff1cb41.au
+    │       │   ├── eff1cbb8.au
+    │       │   ├── eff1cbbb.au
+    │       │   ├── eff1cc52.au
+    │       │   ├── eff1cc5d.au
+    │       │   ├── eff1ccf0.au
+    │       │   ├── eff1ce89.au
+    │       │   ├── eff1cfa5.au
+    │       │   ├── eff1cfbf.au
+    │       │   ├── eff1cfde.au
+    │       │   └── eff1cff7.au
+    │       ├── d1d
+    │       ├── d1e
+    │       └── d1f
+    ├── Jam - 3:22:21 (Left Channel) (iPhone Recording).aup
+    ├── Jam - 3:22:21 (Left Channel) (iPhone Recording).m4a
+    ├── Jam - 3:22:21 (Right Channel) (Laptop Recording).m4a
+    └── Jam - 3:22:21 Setlist.pdf
+    
+    8 directories, 50 files

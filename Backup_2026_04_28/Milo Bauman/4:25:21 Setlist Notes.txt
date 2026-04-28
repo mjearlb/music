@@ -1,0 +1,51 @@
+4/25/21 - Milo Bauman, Andrew Mappes, & Calvin Stovall
+
+Venue: 
+130 Magnolia Street
+Athens, GA
+
+Set 1: (1:43:44)
+[1] St. Stephen (4:12 - 13:30)
+[2] Althea (16:55 - 29:40)
+[3] Ya Mar (32:27 - 38:50)
+[4] Mike's Song (43:50 - 54:44) ->
+[5] Waste (54:44 - 1:02:48)
+[6] Mr. Charlie (1:08:00 - 1:12:42)
+[7] Bird Song (1:13:40 - 1:21:50)
+[8] Andrew's Gone (in E) (1:24:15 - 1:26:36)
+[9] Road Trip (1:27:50 - 1:34:58)
+[10] Road Trip (1:38:20 - 1:41:46)
+
+Notes: 
+[6] Short run through, then actual song. 
+
+Reviews: 
+Milo: 
+
+[9] Electric guitars. My shitty Leslie effect is on, sounds bad. 
+[10] I think me on acoustic guitar, Andrew on electric (much better of the two versions)
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2021/4:25:21
+    ├── 4:25:21 Setlist Notes.txt
+    ├── Jam - 4:25:21 (Laptop Recording Export) (With Calvin).wav
+    ├── Jam - 4:25:21 (Phone Recording) (With Calvin).m4a
+    ├── Project.band
+    │   ├── Alternatives
+    │   │   └── 000
+    │   │       ├── DisplayState.plist
+    │   │       ├── DisplayStateArchive
+    │   │       ├── MetaData.plist
+    │   │       ├── ProjectData
+    │   │       ├── Undo Data.nosync
+    │   │       └── WindowImage.jpg
+    │   ├── Media
+    │   │   └── Audio Files
+    │   │       └── Untitled_1#01.wav
+    │   ├── projectData
+    │   └── Resources
+    │       └── ProjectInformation.plist
+    └── Road Trip (4:25:21).wav
+    
+    8 directories, 12 files

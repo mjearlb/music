@@ -1,0 +1,249 @@
+2/22/21 - Milo Bauman & Andrew Mappes
+
+Venue: 
+130 Magnolia Street
+Athens, GA
+
+Set 1: (1:52:26)
+[1] Sweet Jane (0:30 - 9:46) ->  
+[2] King of Carrot Flowers Pt. 1 (9:46 - 12:06) 
+[3] Knocking on Heaven's Door (12:20 - 15:23) 
+[4] Babe, I'm Gonna Leave You (15:30 - 18:28) 
+[5] Andrew's Call (18:23 - 19:50) 
+[6] Waste (20:40 - 26:25) -> 
+[7] Crazy Little Thing Called Love (26:25 - 27:05)
+[8] Ripple (28:32 - 41:20) 
+[9] Harmonious Reaction (42:40 - 47:29) 
+[10] Wharf Rat (48:00 - 56:20) 
+[11] St. Stephen (58:37 - 1:04:30) 
+[12] China Cat Sunflower (1:06:30 - 1:11:21) 
+[13] I Know You Rider (1:11:47 - 1:16:01) 
+[14] Billy Breathes (1:17:00 - 1:18:10) 
+[15] Spiders Crawling All Over My Guitar (1:22:00 - 1:22:30)
+[16] Althea (1:22:30 - 1:36:15) 
+[17] Harpua (1:38:45 - 1:44:15) -> 
+[18] Mrs. Robinson (1:44:15 - 1:47:12) -> 
+[19] Harpua (1:47:12 - 1:50:53)
+
+Notes: 
+A 2 hour marathon of a show. 
+
+[1] Sweet Jane turns into a warm up jam at 5:45. Sweet Jane jam turns almost into Love in Vain jam, then Andrew takes rhythm and changes it at 9:05. Picks up in tempo around 9:50. 
+[5] Andrew’s Call is set to Sympathy for the Devil by Milo. 
+[8] Milo takes Ripple intro, and some parts are actually correct! 
+[9] ??? is an unknown Andrew riff, no lyrics. It was later worked into  Harmonious Reaction. 
+[10] Wharf Rat ends in Dark Star jam. 
+[11] St. Stephen is taken slower than normal, speeds up as the lyrics start. St. Stephen contains a jam before the bridge, Andrew on lead. (1:01:50): Andrew hates G-Strings. Me and Julio Down by the Schoolyard tease after St. Stephen. 
+[12] Performance incomplete.
+[14] Tease after Billy Breathes of Stash and Bathtub Gin
+[15] Milo Bauman original. 
+[16] Althea jams into almost Bird Song then turns into Siesta Key. Andrew later states he was trying to go into Fire on the Mountain
+[17] Harpua played in 4/4. Narration starts at 1:40:40. Andrew narrates story about Nathan’s 21st birthday. Joe DiMaggio kills Poster Nutbag. 
+
+Reviews: 
+Milo: 
+This is the weirdest fucking setlist bro what were we on?
+
+[1] Jam 2 (after 9:05) has better soloing than Jam 1 (after 5:45).
+[2] Jam into King of Carrot Flowers Pt. 1? Very interesting choice Andrew.
+[8] I got really pissed at Andrew during Ripple - sorry man lol. Jam after Ripple is pretty cool. Changes around 39:05 and this riff could be a real song. 35:22 jam starts. 
+[12] China Cat Sunflower intro pretty bad tbh. Bobby guitar part very rough lol. We took the L and played IKYR instead. 
+[16] Type 2 jam starts at 1:33:50. "andrew seems confident that this is our best Althea on tape" - comments from audacity recording
+[17][18][19] Best Harpua we may have ever played? No stops. 
+
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2021/2:22:21
+    ├── 2:22:21 - Setlist notes.rtf.sb-d112434a-ceXGNo
+    ├── 2:22:21 - Setlist notes.txt
+    ├── Harmonious Reaction.m4a
+    ├── Jam - 2:22:21_data
+    │   └── eff
+    │       ├── d1a
+    │       │   ├── eff1a00c.au
+    │       │   ├── eff1a00f.au
+    │       │   ├── eff1a026.au
+    │       │   ├── eff1a041.au
+    │       │   ├── eff1a04c.au
+    │       │   ├── eff1a078.au
+    │       │   ├── eff1a07a.au
+    │       │   ├── eff1a087.au
+    │       │   ├── eff1a09a.au
+    │       │   ├── eff1a09f.au
+    │       │   ├── eff1a0c3.au
+    │       │   ├── eff1a0f1.au
+    │       │   ├── eff1a0f5.au
+    │       │   ├── eff1a10d.au
+    │       │   ├── eff1a11a.au
+    │       │   ├── eff1a18d.au
+    │       │   ├── eff1a19a.au
+    │       │   ├── eff1a1a5.au
+    │       │   ├── eff1a1c0.au
+    │       │   ├── eff1a1ea.au
+    │       │   ├── eff1a202.au
+    │       │   ├── eff1a260.au
+    │       │   ├── eff1a2cb.au
+    │       │   ├── eff1a2cd.au
+    │       │   ├── eff1a2e9.au
+    │       │   ├── eff1a326.au
+    │       │   ├── eff1a35a.au
+    │       │   ├── eff1a393.au
+    │       │   ├── eff1a3b4.au
+    │       │   ├── eff1a400.au
+    │       │   ├── eff1a40c.au
+    │       │   ├── eff1a420.au
+    │       │   ├── eff1a484.au
+    │       │   ├── eff1a491.au
+    │       │   ├── eff1a497.au
+    │       │   ├── eff1a4d7.au
+    │       │   ├── eff1a4d8.au
+    │       │   ├── eff1a4e2.au
+    │       │   ├── eff1a4ff.au
+    │       │   ├── eff1a50b.au
+    │       │   ├── eff1a526.au
+    │       │   ├── eff1a529.au
+    │       │   ├── eff1a55b.au
+    │       │   ├── eff1a56e.au
+    │       │   ├── eff1a580.au
+    │       │   ├── eff1a5c8.au
+    │       │   ├── eff1a5f2.au
+    │       │   ├── eff1a636.au
+    │       │   ├── eff1a640.au
+    │       │   ├── eff1a65e.au
+    │       │   ├── eff1a679.au
+    │       │   ├── eff1a6a4.au
+    │       │   ├── eff1a6b5.au
+    │       │   ├── eff1a6bc.au
+    │       │   ├── eff1a6de.au
+    │       │   ├── eff1a70c.au
+    │       │   ├── eff1a718.au
+    │       │   ├── eff1a744.au
+    │       │   ├── eff1a766.au
+    │       │   ├── eff1a789.au
+    │       │   ├── eff1a791.au
+    │       │   ├── eff1a7b5.au
+    │       │   ├── eff1a7bf.au
+    │       │   ├── eff1a7db.au
+    │       │   ├── eff1a7de.au
+    │       │   ├── eff1a7ef.au
+    │       │   ├── eff1a7fb.au
+    │       │   ├── eff1a885.au
+    │       │   ├── eff1a88f.au
+    │       │   ├── eff1a8e5.au
+    │       │   ├── eff1a8e8.au
+    │       │   ├── eff1a8f6.au
+    │       │   ├── eff1a907.au
+    │       │   ├── eff1a950.au
+    │       │   ├── eff1a95a.au
+    │       │   ├── eff1a977.au
+    │       │   ├── eff1a97d.au
+    │       │   ├── eff1a986.au
+    │       │   ├── eff1a98f.au
+    │       │   ├── eff1a99b.au
+    │       │   ├── eff1a9b7.au
+    │       │   ├── eff1a9b9.au
+    │       │   ├── eff1a9d7.au
+    │       │   ├── eff1a9e5.au
+    │       │   ├── eff1aa50.au
+    │       │   ├── eff1aa57.au
+    │       │   ├── eff1aa66.au
+    │       │   ├── eff1aa78.au
+    │       │   ├── eff1aab7.au
+    │       │   ├── eff1aac6.au
+    │       │   ├── eff1aacb.au
+    │       │   ├── eff1aadc.au
+    │       │   ├── eff1aafe.au
+    │       │   ├── eff1ab10.au
+    │       │   ├── eff1ab2a.au
+    │       │   ├── eff1ab36.au
+    │       │   ├── eff1ab43.au
+    │       │   ├── eff1ac26.au
+    │       │   ├── eff1ac55.au
+    │       │   ├── eff1ac58.au
+    │       │   ├── eff1ac90.au
+    │       │   ├── eff1ac97.au
+    │       │   ├── eff1acde.au
+    │       │   ├── eff1acf0.au
+    │       │   ├── eff1ad2c.au
+    │       │   ├── eff1ad36.au
+    │       │   ├── eff1ad51.au
+    │       │   ├── eff1ad54.au
+    │       │   ├── eff1ad62.au
+    │       │   ├── eff1ad69.au
+    │       │   ├── eff1ad7d.au
+    │       │   ├── eff1ada6.au
+    │       │   ├── eff1adac.au
+    │       │   ├── eff1addb.au
+    │       │   ├── eff1adeb.au
+    │       │   ├── eff1adf3.au
+    │       │   ├── eff1adf6.au
+    │       │   ├── eff1ae13.au
+    │       │   ├── eff1ae1c.au
+    │       │   ├── eff1ae2f.au
+    │       │   ├── eff1ae49.au
+    │       │   ├── eff1ae56.au
+    │       │   ├── eff1ae80.au
+    │       │   ├── eff1aea1.au
+    │       │   ├── eff1aeb9.au
+    │       │   ├── eff1aebd.au
+    │       │   ├── eff1aeef.au
+    │       │   ├── eff1af10.au
+    │       │   ├── eff1af1c.au
+    │       │   ├── eff1af41.au
+    │       │   ├── eff1af5a.au
+    │       │   ├── eff1afa4.au
+    │       │   ├── eff1afc6.au
+    │       │   ├── eff1afcc.au
+    │       │   ├── eff1afd0.au
+    │       │   ├── eff1afd8.au
+    │       │   ├── eff1affb.au
+    │       │   ├── eff1affe.au
+    │       │   └── eff1afff.au
+    │       └── d1b
+    │           ├── eff1b04a.au
+    │           ├── eff1b07d.au
+    │           ├── eff1b09c.au
+    │           ├── eff1b0c2.au
+    │           ├── eff1b11d.au
+    │           ├── eff1b126.au
+    │           ├── eff1b184.au
+    │           ├── eff1b242.au
+    │           ├── eff1b281.au
+    │           ├── eff1b289.au
+    │           ├── eff1b292.au
+    │           ├── eff1b2c3.au
+    │           ├── eff1b387.au
+    │           ├── eff1b405.au
+    │           ├── eff1b454.au
+    │           ├── eff1b47b.au
+    │           ├── eff1b488.au
+    │           ├── eff1b5c0.au
+    │           ├── eff1b5da.au
+    │           ├── eff1b687.au
+    │           ├── eff1b6b4.au
+    │           ├── eff1b6db.au
+    │           ├── eff1b6fc.au
+    │           ├── eff1b707.au
+    │           ├── eff1b717.au
+    │           ├── eff1b7c5.au
+    │           ├── eff1b83f.au
+    │           ├── eff1b8d3.au
+    │           ├── eff1b989.au
+    │           ├── eff1b9ef.au
+    │           ├── eff1ba00.au
+    │           ├── eff1ba35.au
+    │           ├── eff1ba87.au
+    │           ├── eff1bafe.au
+    │           ├── eff1bb61.au
+    │           ├── eff1bbfa.au
+    │           ├── eff1bc50.au
+    │           ├── eff1be58.au
+    │           ├── eff1bec9.au
+    │           ├── eff1bf0b.au
+    │           ├── eff1bf64.au
+    │           └── eff1bfbc.au
+    ├── Jam - 2:22:21.aup
+    └── Jam - 2:22:21.m4a
+    
+    5 directories, 186 files
