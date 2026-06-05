@@ -21,7 +21,11 @@ From 2014 to 2020, I played probably half and half. After 2020, I got serious ab
 ### Milo Bauman & Andrew Mappes (and Other Various Side Projects)
 Andrew and I started playing together in early 2020, but did not start recording & archiving our sets until 2/14/2021. [Here is a YouTube playlist](https://www.youtube.com/playlist?list=PLIhbIuts5_rFByYK18eHek4BJYBYfDsvh) containing almost all of our audio recordings. 
 
+![Andrew and I performing at Mapfest 2023 with Jake Mappes](https://github.com/mjearlb/music/raw/main/resources/milo_bauman/Screenshot%202025-06-22%20at%205.36.54%E2%80%AFPM.png)
+
 Our first big show was at Mapfest 2021, which was also our first time playing with a drummer. From 4/20/22 to 2/17/23, Andrew and I stopped playing together. During this time, I had a semester abroad in Liverpool, England, where I was a part of the "Exchange" band. 
+
+![Me performing at a club for my final exam](resources/milo_bauman/027e42b1-1a58-4182-b703-885b5e361b10.jpg)
 
 2023 and 2024 would see a large volume of acoustic sets for us. This was due to the fact that both of us were living places that we couldn't be as loud as we might be with electric instruments. This, and the fact that Andrew bought a very nice acoustic guitar. 
 
