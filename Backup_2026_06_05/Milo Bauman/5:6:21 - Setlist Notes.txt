@@ -1,0 +1,30 @@
+5/6/21 - Milo Bauman, Andrew Mappes, & Calvin Stovall
+
+Venue: 
+130 Magnolia Street
+Athens, GA
+
+Set 1: (13:11)
+[1] Althea (2:05 - 13:02)
+
+Set 2: (16:13)
+[2] Casey Jones (0:18 - 9:17) ->
+[3] Siesta Key (9:17 - 15:00)
+
+Notes: 
+It is unknown what order these sets were played in as the metadata states both recordings were created 5/7/21 at 12:25am. This is presumably when they were transferred from phone to laptop for archiving. Update: Sets are in correct order, exact time still unknown, (though probably around 10pm). 
+
+[1] Set 1 is listed as "2021-05-07T02:42:11.000000Z"
+[2][3] Set 2 is listed as "2021-05-07T02:58:27.000000Z"
+
+Reviews: 
+Milo: Idk why we only played for ~30 mins. 
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2021/5:6:21
+    ├── 5:6:21 - Setlist Notes.txt
+    ├── Jam - 5:6:21 Althea.m4a
+    └── Jam - 5:6:21 Casey Jones>Siesta Key.m4a
+    
+    1 directory, 3 files

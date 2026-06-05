@@ -1,0 +1,55 @@
+4/20/21 - Milo Bauman & Andrew Mappes
+
+Venue: 
+130 Magnolia Street
+Athens, GA
+
+Set 1: (59:47)
+[1] Mike's Song (1:40 - 2:30) 
+[2] Jam (2:35 - 9:00) -> 
+[3] Sugar Mountain (9:00 - 11:38) -> 
+[4] Old Man (11:38 - 15:48) > 
+[5] 2112: Discovery (15:48 - 18:24) > 
+[6] 2112: Presentation (18:24 - 18:58)
+[7] Jam (19:10 - 24:43) >
+[8] Suzy Greenburg (24:30 - 31:10) -> 
+[9] Playing in the Band (31:10 - 44:08) -> 
+[10] Waste (44:08 - 50:33) 
+[11] US Blues (51:25 - 56:50)
+
+Notes: 
+Timestamps relative to GarageBand recording. 
+[1] Brief warm-up/tuning jam. 
+[2] Andrew testing his pedal board for most of this track. 
+[5][6] Likely some inaccuracies with the title or exact timestamps. 
+[9] The vocals start at 35:00. 
+
+Reviews: 
+Milo: 
+[2] (Starting at 3:47) Much better than preceding Jam. 
+[9] This jam gets very spacey. 
+[10] Excellent. 
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2021/4:20:21
+    ├── 4:20:21 - Setlist Notes.txt
+    ├── Jam - 4:20:21 (Laptop Recording).wav
+    ├── Jam - 4:20:21 (Phone Recording).m4a
+    └── Jam - 4:20:21.band
+        ├── Alternatives
+        │   └── 000
+        │       ├── DisplayState.plist
+        │       ├── DisplayStateArchive
+        │       ├── MetaData.plist
+        │       ├── ProjectData
+        │       ├── Undo Data.nosync
+        │       └── WindowImage.jpg
+        ├── Media
+        │   └── Audio Files
+        │       └── Untitled_1#01.wav
+        ├── projectData
+        └── Resources
+            └── ProjectInformation.plist
+    
+    8 directories, 11 files

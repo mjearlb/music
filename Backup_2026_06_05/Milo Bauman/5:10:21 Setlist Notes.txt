@@ -1,0 +1,97 @@
+5/10/21 - Milo Bauman & Andrew Mappes
+
+Venue: 
+130 Magnolia Street
+Athens, GA
+
+Set 1: (1:07:44)
+[1] Althea (3:00 - 11:50)
+[2] Amie (12:22 - 16:39)
+[3] Band on the Run (17:27 - 21:28)
+[4] Beast of Burden (21:40 - 26:53)
+[5] Bertha (27:25 - 31:57)
+[6] Billy Breathes (32:22 - 35:15)
+[7] Bird Song (35:43 - 40:36)
+[8] Bouncing Around the Room (41:09 - 44:30)
+[9] Brokedown Palace (47:32 - 51:05)
+[10] Casey Jones (51:31 - 55:23)
+[11] Cassidy (56:10 - 1:02:03)
+[12] Chalk Dust Torture (1:02:35 - 1:07:44)
+
+Set 2: (1:19:51)
+[13] Jam (1:08:00 - 1:09:00) ->
+[14] Behind Blue Eyes (1:09:00 - 1:13:28)
+[15] Jam (1:13:50 - 1:21:11) 
+[16] Jam (1:21:20 - 1:25:00)
+[17] Tweezer (1:25:25 - 1:26:10) 
+[18] Mike's Song (1:26:25 - 1:39:22)
+[19] Jam (1:39:23 - 1:51:00) 
+[20] Gumbo (1:51:00 - 1:55:13)
+[21] Siesta Key (1:56:34 - 2:02:00)
+[22] Jam (2:02:15 - 2:03:40)
+[23] You Can't Always Get What You Want (2:04:45 - 2:10:03)
+[24] Road Trip (2:10:15 - 2:20:10)
+[25] Simple (2:21:24 - 2:21:50) 
+[26] St. Stephen (2:22:10 - 2:25:58)
+[27] severe audio corruption (2:27:23 - 2:27:35)
+
+Notes: 
+Timestamps are based off of the full 2:27:35 uncut laptop recording from GarageBand the corresponding timestamps from Set 1 of phone recording will be roughly the same. The corresponding timestamps for Set 2 will be roughly 1:07:54 off. 
+
+[1] Banter: Andrew wants to drink 1 beer between each song. That did not happen. Andrew takes a call. 
+[19] Andrew led jam. 
+[21] Andrew has chorus on.
+[22] False start, devolves into Mike’s Song. Another false start, new tempo is picked.
+[23] Milo led jam. 
+[26] St. Stephen was teased by Andrew. 
+[27] Horn is teased by Andrew afterwards. 
+
+Reviews: 
+Milo: 
+Set 1 kinda sucked. Set 2 was great, lots of fun. 
+
+[1] Decent run, but nothing special. Worth a listen. 
+[3][4][6][8][9] Can all be skipped. They are bad. 
+[5] not good, not terrible. Better than the bad ones, which is why it does not have a *
+[6] Guitars do not keep up with the chord changes, and it falls completely apart in the middle (around 0:34:32), but we pulled it back together and finish the song. 
+[7] abrupt ending
+[8] new song, I took the end solo. Didn’t go as bad as when we practiced ¯\_(ツ)_/¯ Andrew takes a call afterwards (Mr. Popularity over here) 
+[15] Andrew does cool thing around 01:15:20. 
+[18] (Starting at 1:28:52) with spacey sounding arpeggios
+[19] Changes(?) at 1:46:09. After that, cool chorus effect on Andrew’s guitar, kinda sets the tone for the jam. I had some pretty cool sounding stuff going on, then it sorta turns into mindless noodling after a while. It does get better again eventually though. 
+[20] Not an amazing run, but okay. 
+[23] Jam I started while waiting for Andrew to set up his effects, he joins in. Banter at end, ASMR. New jam starts on my chord progression I made up during summer 2020. Andrew name drops Underground Springhouse in a comparison. 
+[24] Cool solo thing at (2:10:55 - 2:11:00). lovely Strat-y sounding chorus at the end
+[26] Best version of St. Stephen to date. 
+[27] idk wtf happened here but it sounds very strange
+
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2021/5:10:21
+    ├── 5:10:21 Setlist Notes.txt
+    ├── Gallery
+    │   └── IMG_4073.JPG
+    ├── Jam - 5:10:21 (Full Laptop Recording).wav
+    ├── Jam - 5:10:21 (Milo Laptop Recording).band
+    │   ├── Alternatives
+    │   │   └── 000
+    │   │       ├── DisplayState.plist
+    │   │       ├── DisplayStateArchive
+    │   │       ├── MetaData.plist
+    │   │       ├── ProjectData
+    │   │       ├── Undo Data.nosync
+    │   │       └── WindowImage.jpg
+    │   ├── Media
+    │   │   ├── Audio Files
+    │   │   │   ├── Untitled_1#01.wav
+    │   │   │   └── Untitled_1#02.wav
+    │   │   └── Freeze Files.nosync
+    │   ├── projectData
+    │   └── Resources
+    │       └── ProjectInformation.plist
+    ├── Jam - 5:10:21 (Phone Recording) (Part 1).m4a
+    ├── Jam - 5:10:21 (Phone Recording) (Part 2).m4a
+    └── Jam - 5:10:21 Setlist Notes.rtf
+    
+    10 directories, 15 files

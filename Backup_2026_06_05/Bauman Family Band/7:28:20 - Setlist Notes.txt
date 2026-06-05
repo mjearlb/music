@@ -1,0 +1,1147 @@
+7/28/20 - Bauman Family Band
+
+Venue: 
+Bauman Family House
+Blairsville, GA
+
+Set 1: 
+[1] The Chain
+
+Notes: 
+
+Reviews: 
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Bauman Family Band/2020:7:28
+    ├── 7:28:20 - Setlist Notes.txt
+    ├── Family band concert - 7:28:20_data
+    │   └── eff
+    │       ├── d0e
+    │       │   ├── eff0e02a.au
+    │       │   ├── eff0e06b.au
+    │       │   ├── eff0e07d.au
+    │       │   ├── eff0e09f.au
+    │       │   ├── eff0e0a3.au
+    │       │   ├── eff0e0c8.au
+    │       │   ├── eff0e103.au
+    │       │   ├── eff0e179.au
+    │       │   ├── eff0e1a5.au
+    │       │   ├── eff0e1b0.au
+    │       │   ├── eff0e1cc.au
+    │       │   ├── eff0e1e5.au
+    │       │   ├── eff0e20d.au
+    │       │   ├── eff0e252.au
+    │       │   ├── eff0e2d7.au
+    │       │   ├── eff0e2e3.au
+    │       │   ├── eff0e2eb.au
+    │       │   ├── eff0e318.au
+    │       │   ├── eff0e34c.au
+    │       │   ├── eff0e389.au
+    │       │   ├── eff0e3d6.au
+    │       │   ├── eff0e42d.au
+    │       │   ├── eff0e434.au
+    │       │   ├── eff0e46d.au
+    │       │   ├── eff0e474.au
+    │       │   ├── eff0e484.au
+    │       │   ├── eff0e4d6.au
+    │       │   ├── eff0e4f0.au
+    │       │   ├── eff0e548.au
+    │       │   ├── eff0e557.au
+    │       │   ├── eff0e56e.au
+    │       │   ├── eff0e57c.au
+    │       │   ├── eff0e5bd.au
+    │       │   ├── eff0e5c5.au
+    │       │   ├── eff0e5c6.au
+    │       │   ├── eff0e603.au
+    │       │   ├── eff0e607.au
+    │       │   ├── eff0e64b.au
+    │       │   ├── eff0e703.au
+    │       │   ├── eff0e705.au
+    │       │   ├── eff0e73b.au
+    │       │   ├── eff0e754.au
+    │       │   ├── eff0e784.au
+    │       │   ├── eff0e78e.au
+    │       │   ├── eff0e7c9.au
+    │       │   ├── eff0e7e1.au
+    │       │   ├── eff0e7ee.au
+    │       │   ├── eff0e828.au
+    │       │   ├── eff0e832.au
+    │       │   ├── eff0e841.au
+    │       │   ├── eff0e851.au
+    │       │   ├── eff0e863.au
+    │       │   ├── eff0e88a.au
+    │       │   ├── eff0e8b1.au
+    │       │   ├── eff0e8f6.au
+    │       │   ├── eff0e96f.au
+    │       │   ├── eff0e971.au
+    │       │   ├── eff0e985.au
+    │       │   ├── eff0e992.au
+    │       │   ├── eff0e9b7.au
+    │       │   ├── eff0e9c7.au
+    │       │   ├── eff0e9db.au
+    │       │   ├── eff0e9e5.au
+    │       │   ├── eff0e9f3.au
+    │       │   ├── eff0ea01.au
+    │       │   ├── eff0ea20.au
+    │       │   ├── eff0ea25.au
+    │       │   ├── eff0eaf8.au
+    │       │   ├── eff0eafc.au
+    │       │   ├── eff0eb1a.au
+    │       │   ├── eff0ebea.au
+    │       │   ├── eff0ec3a.au
+    │       │   ├── eff0ec40.au
+    │       │   ├── eff0ec63.au
+    │       │   ├── eff0ec6f.au
+    │       │   ├── eff0eca8.au
+    │       │   ├── eff0ecbd.au
+    │       │   ├── eff0ece2.au
+    │       │   ├── eff0ed0a.au
+    │       │   ├── eff0ed57.au
+    │       │   ├── eff0eda7.au
+    │       │   ├── eff0edb5.au
+    │       │   ├── eff0ee9c.au
+    │       │   ├── eff0ef13.au
+    │       │   ├── eff0ef28.au
+    │       │   ├── eff0ef78.au
+    │       │   ├── eff0efc4.au
+    │       │   └── eff0efcc.au
+    │       ├── d0f
+    │       │   ├── eff0f051.au
+    │       │   ├── eff0f085.au
+    │       │   ├── eff0f08d.au
+    │       │   ├── eff0f0cb.au
+    │       │   ├── eff0f0fb.au
+    │       │   ├── eff0f102.au
+    │       │   ├── eff0f105.au
+    │       │   ├── eff0f154.au
+    │       │   ├── eff0f16d.au
+    │       │   ├── eff0f185.au
+    │       │   ├── eff0f1ba.au
+    │       │   ├── eff0f1db.au
+    │       │   ├── eff0f1ed.au
+    │       │   ├── eff0f217.au
+    │       │   ├── eff0f21f.au
+    │       │   ├── eff0f223.au
+    │       │   ├── eff0f224.au
+    │       │   ├── eff0f226.au
+    │       │   ├── eff0f229.au
+    │       │   ├── eff0f22c.au
+    │       │   ├── eff0f255.au
+    │       │   ├── eff0f263.au
+    │       │   ├── eff0f276.au
+    │       │   ├── eff0f28f.au
+    │       │   ├── eff0f291.au
+    │       │   ├── eff0f2a3.au
+    │       │   ├── eff0f2a6.au
+    │       │   ├── eff0f2aa.au
+    │       │   ├── eff0f2e3.au
+    │       │   ├── eff0f2ec.au
+    │       │   ├── eff0f319.au
+    │       │   ├── eff0f32b.au
+    │       │   ├── eff0f32c.au
+    │       │   ├── eff0f338.au
+    │       │   ├── eff0f353.au
+    │       │   ├── eff0f35b.au
+    │       │   ├── eff0f36a.au
+    │       │   ├── eff0f36c.au
+    │       │   ├── eff0f37f.au
+    │       │   ├── eff0f3af.au
+    │       │   ├── eff0f3d4.au
+    │       │   ├── eff0f3e9.au
+    │       │   ├── eff0f407.au
+    │       │   ├── eff0f444.au
+    │       │   ├── eff0f447.au
+    │       │   ├── eff0f44f.au
+    │       │   ├── eff0f4c8.au
+    │       │   ├── eff0f516.au
+    │       │   ├── eff0f51d.au
+    │       │   ├── eff0f546.au
+    │       │   ├── eff0f556.au
+    │       │   ├── eff0f570.au
+    │       │   ├── eff0f577.au
+    │       │   ├── eff0f58f.au
+    │       │   ├── eff0f59b.au
+    │       │   ├── eff0f5a8.au
+    │       │   ├── eff0f5bf.au
+    │       │   ├── eff0f5c3.au
+    │       │   ├── eff0f5d4.au
+    │       │   ├── eff0f5e7.au
+    │       │   ├── eff0f5e9.au
+    │       │   ├── eff0f5eb.au
+    │       │   ├── eff0f5f1.au
+    │       │   ├── eff0f5fa.au
+    │       │   ├── eff0f60c.au
+    │       │   ├── eff0f61f.au
+    │       │   ├── eff0f64c.au
+    │       │   ├── eff0f677.au
+    │       │   ├── eff0f685.au
+    │       │   ├── eff0f691.au
+    │       │   ├── eff0f692.au
+    │       │   ├── eff0f6dd.au
+    │       │   ├── eff0f704.au
+    │       │   ├── eff0f70c.au
+    │       │   ├── eff0f724.au
+    │       │   ├── eff0f72e.au
+    │       │   ├── eff0f73a.au
+    │       │   ├── eff0f745.au
+    │       │   ├── eff0f769.au
+    │       │   ├── eff0f76f.au
+    │       │   ├── eff0f7a4.au
+    │       │   ├── eff0f7b1.au
+    │       │   ├── eff0f7b9.au
+    │       │   ├── eff0f804.au
+    │       │   ├── eff0f80a.au
+    │       │   ├── eff0f825.au
+    │       │   ├── eff0f856.au
+    │       │   ├── eff0f857.au
+    │       │   ├── eff0f883.au
+    │       │   ├── eff0f89e.au
+    │       │   ├── eff0f8ab.au
+    │       │   ├── eff0f8c2.au
+    │       │   ├── eff0f8e6.au
+    │       │   ├── eff0f8f6.au
+    │       │   ├── eff0f8f8.au
+    │       │   ├── eff0f91d.au
+    │       │   ├── eff0f91f.au
+    │       │   ├── eff0f962.au
+    │       │   ├── eff0f969.au
+    │       │   ├── eff0f995.au
+    │       │   ├── eff0f9ce.au
+    │       │   ├── eff0f9f1.au
+    │       │   ├── eff0f9f7.au
+    │       │   ├── eff0fa03.au
+    │       │   ├── eff0fa08.au
+    │       │   ├── eff0fa0a.au
+    │       │   ├── eff0fa1b.au
+    │       │   ├── eff0fa28.au
+    │       │   ├── eff0fa9a.au
+    │       │   ├── eff0faac.au
+    │       │   ├── eff0faec.au
+    │       │   ├── eff0fb3c.au
+    │       │   ├── eff0fb5b.au
+    │       │   ├── eff0fbb8.au
+    │       │   ├── eff0fbd3.au
+    │       │   ├── eff0fbea.au
+    │       │   ├── eff0fbeb.au
+    │       │   ├── eff0fbfd.au
+    │       │   ├── eff0fc02.au
+    │       │   ├── eff0fc11.au
+    │       │   ├── eff0fc2a.au
+    │       │   ├── eff0fc3f.au
+    │       │   ├── eff0fc40.au
+    │       │   ├── eff0fc42.au
+    │       │   ├── eff0fc5f.au
+    │       │   ├── eff0fc7f.au
+    │       │   ├── eff0fcaa.au
+    │       │   ├── eff0fcaf.au
+    │       │   ├── eff0fcc4.au
+    │       │   ├── eff0fcf7.au
+    │       │   ├── eff0fd4b.au
+    │       │   ├── eff0fd4d.au
+    │       │   ├── eff0fd86.au
+    │       │   ├── eff0fda3.au
+    │       │   ├── eff0fdaf.au
+    │       │   ├── eff0fdd0.au
+    │       │   ├── eff0fdd3.au
+    │       │   ├── eff0fddc.au
+    │       │   ├── eff0fded.au
+    │       │   ├── eff0fe0e.au
+    │       │   ├── eff0fe27.au
+    │       │   ├── eff0fe46.au
+    │       │   ├── eff0fedd.au
+    │       │   ├── eff0fee9.au
+    │       │   ├── eff0fef8.au
+    │       │   ├── eff0fefe.au
+    │       │   ├── eff0ff12.au
+    │       │   ├── eff0ff45.au
+    │       │   ├── eff0ff61.au
+    │       │   ├── eff0ff86.au
+    │       │   ├── eff0ff8c.au
+    │       │   ├── eff0ff91.au
+    │       │   ├── eff0ffbb.au
+    │       │   └── eff0ffcd.au
+    │       ├── d10
+    │       │   ├── eff10045.au
+    │       │   ├── eff10047.au
+    │       │   ├── eff1005e.au
+    │       │   ├── eff10079.au
+    │       │   ├── eff10087.au
+    │       │   ├── eff1008c.au
+    │       │   ├── eff100c9.au
+    │       │   ├── eff1011e.au
+    │       │   ├── eff1012a.au
+    │       │   ├── eff1013a.au
+    │       │   ├── eff1013c.au
+    │       │   ├── eff10192.au
+    │       │   ├── eff10199.au
+    │       │   ├── eff101cb.au
+    │       │   ├── eff101fd.au
+    │       │   ├── eff10211.au
+    │       │   ├── eff10214.au
+    │       │   ├── eff10239.au
+    │       │   ├── eff10253.au
+    │       │   ├── eff1025b.au
+    │       │   ├── eff1025f.au
+    │       │   ├── eff10279.au
+    │       │   ├── eff10293.au
+    │       │   ├── eff10295.au
+    │       │   ├── eff1029a.au
+    │       │   ├── eff1029e.au
+    │       │   ├── eff102a5.au
+    │       │   ├── eff102ba.au
+    │       │   ├── eff102d1.au
+    │       │   ├── eff102e3.au
+    │       │   ├── eff10301.au
+    │       │   ├── eff1031d.au
+    │       │   ├── eff10356.au
+    │       │   ├── eff103b2.au
+    │       │   ├── eff103c6.au
+    │       │   ├── eff103d9.au
+    │       │   ├── eff103e8.au
+    │       │   ├── eff1040b.au
+    │       │   ├── eff10412.au
+    │       │   ├── eff1042e.au
+    │       │   ├── eff10434.au
+    │       │   ├── eff1045f.au
+    │       │   ├── eff104a2.au
+    │       │   ├── eff104a5.au
+    │       │   ├── eff104ab.au
+    │       │   ├── eff104b1.au
+    │       │   ├── eff1052d.au
+    │       │   ├── eff1054f.au
+    │       │   ├── eff1056f.au
+    │       │   ├── eff105eb.au
+    │       │   ├── eff105f4.au
+    │       │   ├── eff10615.au
+    │       │   ├── eff10627.au
+    │       │   ├── eff1062f.au
+    │       │   ├── eff1063b.au
+    │       │   ├── eff10644.au
+    │       │   ├── eff106d7.au
+    │       │   ├── eff106fe.au
+    │       │   ├── eff10701.au
+    │       │   ├── eff10710.au
+    │       │   ├── eff1074b.au
+    │       │   ├── eff1076d.au
+    │       │   ├── eff107be.au
+    │       │   ├── eff107fe.au
+    │       │   ├── eff1080d.au
+    │       │   ├── eff1083c.au
+    │       │   ├── eff10849.au
+    │       │   ├── eff1085b.au
+    │       │   ├── eff108b0.au
+    │       │   ├── eff10905.au
+    │       │   ├── eff10930.au
+    │       │   ├── eff10936.au
+    │       │   ├── eff10938.au
+    │       │   ├── eff10a42.au
+    │       │   ├── eff10a43.au
+    │       │   ├── eff10a46.au
+    │       │   ├── eff10a59.au
+    │       │   ├── eff10a5e.au
+    │       │   ├── eff10a62.au
+    │       │   ├── eff10a87.au
+    │       │   ├── eff10a8b.au
+    │       │   ├── eff10ab2.au
+    │       │   ├── eff10b4b.au
+    │       │   ├── eff10b68.au
+    │       │   ├── eff10b79.au
+    │       │   ├── eff10b88.au
+    │       │   ├── eff10b8a.au
+    │       │   ├── eff10bd6.au
+    │       │   ├── eff10bef.au
+    │       │   ├── eff10bf7.au
+    │       │   ├── eff10c01.au
+    │       │   ├── eff10c54.au
+    │       │   ├── eff10c67.au
+    │       │   ├── eff10cbe.au
+    │       │   ├── eff10cd1.au
+    │       │   ├── eff10d53.au
+    │       │   ├── eff10d68.au
+    │       │   ├── eff10d85.au
+    │       │   ├── eff10d9d.au
+    │       │   ├── eff10dec.au
+    │       │   ├── eff10e15.au
+    │       │   ├── eff10e1e.au
+    │       │   ├── eff10e2c.au
+    │       │   ├── eff10e2d.au
+    │       │   ├── eff10e2e.au
+    │       │   ├── eff10e63.au
+    │       │   ├── eff10e68.au
+    │       │   ├── eff10e90.au
+    │       │   ├── eff10ed2.au
+    │       │   ├── eff10f1a.au
+    │       │   ├── eff10f22.au
+    │       │   ├── eff10f24.au
+    │       │   ├── eff10f31.au
+    │       │   ├── eff10f4b.au
+    │       │   ├── eff10f58.au
+    │       │   ├── eff10f5e.au
+    │       │   ├── eff10f81.au
+    │       │   ├── eff10f9e.au
+    │       │   ├── eff10fa7.au
+    │       │   └── eff10fbb.au
+    │       ├── d11
+    │       │   ├── eff11013.au
+    │       │   ├── eff1102c.au
+    │       │   ├── eff11039.au
+    │       │   ├── eff11064.au
+    │       │   ├── eff1108f.au
+    │       │   ├── eff110b0.au
+    │       │   ├── eff110d4.au
+    │       │   ├── eff110f9.au
+    │       │   ├── eff11123.au
+    │       │   ├── eff11131.au
+    │       │   ├── eff11137.au
+    │       │   ├── eff11154.au
+    │       │   ├── eff1115b.au
+    │       │   ├── eff11160.au
+    │       │   ├── eff1116e.au
+    │       │   ├── eff1117a.au
+    │       │   ├── eff11184.au
+    │       │   ├── eff11194.au
+    │       │   ├── eff111a0.au
+    │       │   ├── eff111a4.au
+    │       │   ├── eff111a5.au
+    │       │   ├── eff111a6.au
+    │       │   ├── eff111aa.au
+    │       │   ├── eff111ab.au
+    │       │   ├── eff111ad.au
+    │       │   ├── eff111b2.au
+    │       │   ├── eff111fc.au
+    │       │   ├── eff11202.au
+    │       │   ├── eff1121e.au
+    │       │   ├── eff1121f.au
+    │       │   ├── eff11232.au
+    │       │   ├── eff11234.au
+    │       │   ├── eff1123e.au
+    │       │   ├── eff1124d.au
+    │       │   ├── eff1125c.au
+    │       │   ├── eff11279.au
+    │       │   ├── eff1127a.au
+    │       │   ├── eff1127f.au
+    │       │   ├── eff11285.au
+    │       │   ├── eff11299.au
+    │       │   ├── eff112b0.au
+    │       │   ├── eff112b4.au
+    │       │   ├── eff112bd.au
+    │       │   ├── eff112c9.au
+    │       │   ├── eff112e5.au
+    │       │   ├── eff112e8.au
+    │       │   ├── eff11303.au
+    │       │   ├── eff11313.au
+    │       │   ├── eff1131f.au
+    │       │   ├── eff1132c.au
+    │       │   ├── eff11336.au
+    │       │   ├── eff1133d.au
+    │       │   ├── eff11343.au
+    │       │   ├── eff11378.au
+    │       │   ├── eff113b6.au
+    │       │   ├── eff113ca.au
+    │       │   ├── eff113eb.au
+    │       │   ├── eff113f7.au
+    │       │   ├── eff113f9.au
+    │       │   ├── eff113fb.au
+    │       │   ├── eff11424.au
+    │       │   ├── eff11437.au
+    │       │   ├── eff11438.au
+    │       │   ├── eff11439.au
+    │       │   ├── eff1146b.au
+    │       │   ├── eff11475.au
+    │       │   ├── eff114ae.au
+    │       │   ├── eff114b2.au
+    │       │   ├── eff114b3.au
+    │       │   ├── eff114b9.au
+    │       │   ├── eff114de.au
+    │       │   ├── eff114df.au
+    │       │   ├── eff11515.au
+    │       │   ├── eff11551.au
+    │       │   ├── eff1155b.au
+    │       │   ├── eff11560.au
+    │       │   ├── eff11570.au
+    │       │   ├── eff11576.au
+    │       │   ├── eff115b8.au
+    │       │   ├── eff115c1.au
+    │       │   ├── eff11647.au
+    │       │   ├── eff1164b.au
+    │       │   ├── eff11653.au
+    │       │   ├── eff11683.au
+    │       │   ├── eff1168e.au
+    │       │   ├── eff11691.au
+    │       │   ├── eff1169d.au
+    │       │   ├── eff116b1.au
+    │       │   ├── eff11742.au
+    │       │   ├── eff11768.au
+    │       │   ├── eff11789.au
+    │       │   ├── eff117b0.au
+    │       │   ├── eff117b5.au
+    │       │   ├── eff117c0.au
+    │       │   ├── eff117c7.au
+    │       │   ├── eff117d5.au
+    │       │   ├── eff117e6.au
+    │       │   ├── eff117fe.au
+    │       │   ├── eff11806.au
+    │       │   ├── eff11822.au
+    │       │   ├── eff11836.au
+    │       │   ├── eff1183c.au
+    │       │   ├── eff11844.au
+    │       │   ├── eff11861.au
+    │       │   ├── eff11868.au
+    │       │   ├── eff1187c.au
+    │       │   ├── eff118b2.au
+    │       │   ├── eff1190c.au
+    │       │   ├── eff1190d.au
+    │       │   ├── eff11969.au
+    │       │   ├── eff1198c.au
+    │       │   ├── eff11998.au
+    │       │   ├── eff119be.au
+    │       │   ├── eff119c8.au
+    │       │   ├── eff119cd.au
+    │       │   ├── eff119e0.au
+    │       │   ├── eff119f4.au
+    │       │   ├── eff119f6.au
+    │       │   ├── eff11a0d.au
+    │       │   ├── eff11a19.au
+    │       │   ├── eff11a38.au
+    │       │   ├── eff11a41.au
+    │       │   ├── eff11a50.au
+    │       │   ├── eff11a70.au
+    │       │   ├── eff11a9a.au
+    │       │   ├── eff11aa5.au
+    │       │   ├── eff11aaa.au
+    │       │   ├── eff11ad9.au
+    │       │   ├── eff11add.au
+    │       │   ├── eff11ae0.au
+    │       │   ├── eff11ae7.au
+    │       │   ├── eff11ae9.au
+    │       │   ├── eff11aff.au
+    │       │   ├── eff11b0c.au
+    │       │   ├── eff11b24.au
+    │       │   ├── eff11b40.au
+    │       │   ├── eff11b6d.au
+    │       │   ├── eff11b84.au
+    │       │   ├── eff11b86.au
+    │       │   ├── eff11bbd.au
+    │       │   ├── eff11bcf.au
+    │       │   ├── eff11be1.au
+    │       │   ├── eff11bfb.au
+    │       │   ├── eff11bfc.au
+    │       │   ├── eff11c09.au
+    │       │   ├── eff11c1e.au
+    │       │   ├── eff11c6d.au
+    │       │   ├── eff11c79.au
+    │       │   ├── eff11c87.au
+    │       │   ├── eff11ca2.au
+    │       │   ├── eff11ca3.au
+    │       │   ├── eff11caa.au
+    │       │   ├── eff11cb1.au
+    │       │   ├── eff11ce1.au
+    │       │   ├── eff11d01.au
+    │       │   ├── eff11d12.au
+    │       │   ├── eff11d17.au
+    │       │   ├── eff11d19.au
+    │       │   ├── eff11d3e.au
+    │       │   ├── eff11db5.au
+    │       │   ├── eff11db9.au
+    │       │   ├── eff11dd6.au
+    │       │   ├── eff11de4.au
+    │       │   ├── eff11e04.au
+    │       │   ├── eff11e16.au
+    │       │   ├── eff11e30.au
+    │       │   ├── eff11e3c.au
+    │       │   ├── eff11e44.au
+    │       │   ├── eff11e64.au
+    │       │   ├── eff11e65.au
+    │       │   ├── eff11e7b.au
+    │       │   ├── eff11e8a.au
+    │       │   ├── eff11e9d.au
+    │       │   ├── eff11eaa.au
+    │       │   ├── eff11eb6.au
+    │       │   ├── eff11ed9.au
+    │       │   ├── eff11ee9.au
+    │       │   ├── eff11f27.au
+    │       │   ├── eff11f2f.au
+    │       │   ├── eff11f34.au
+    │       │   ├── eff11f45.au
+    │       │   ├── eff11f65.au
+    │       │   ├── eff11f8b.au
+    │       │   ├── eff11f92.au
+    │       │   ├── eff11f95.au
+    │       │   ├── eff11fb6.au
+    │       │   └── eff11fbf.au
+    │       ├── d1b
+    │       │   ├── eff1b0c5.au
+    │       │   ├── eff1b0d6.au
+    │       │   ├── eff1b319.au
+    │       │   ├── eff1b387.au
+    │       │   ├── eff1b4cf.au
+    │       │   ├── eff1b852.au
+    │       │   ├── eff1b977.au
+    │       │   ├── eff1ba7f.au
+    │       │   ├── eff1babc.au
+    │       │   ├── eff1bbc2.au
+    │       │   ├── eff1bc17.au
+    │       │   ├── eff1bc99.au
+    │       │   ├── eff1bce2.au
+    │       │   ├── eff1bd3d.au
+    │       │   ├── eff1bda1.au
+    │       │   ├── eff1be5a.au
+    │       │   └── eff1bffe.au
+    │       ├── d1c
+    │       │   ├── eff1c008.au
+    │       │   ├── eff1c018.au
+    │       │   ├── eff1c01a.au
+    │       │   ├── eff1c038.au
+    │       │   ├── eff1c063.au
+    │       │   ├── eff1c096.au
+    │       │   ├── eff1c097.au
+    │       │   ├── eff1c0c3.au
+    │       │   ├── eff1c0cc.au
+    │       │   ├── eff1c0d1.au
+    │       │   ├── eff1c0d9.au
+    │       │   ├── eff1c0e4.au
+    │       │   ├── eff1c0f9.au
+    │       │   ├── eff1c13f.au
+    │       │   ├── eff1c143.au
+    │       │   ├── eff1c155.au
+    │       │   ├── eff1c190.au
+    │       │   ├── eff1c191.au
+    │       │   ├── eff1c19f.au
+    │       │   ├── eff1c1b2.au
+    │       │   ├── eff1c1bf.au
+    │       │   ├── eff1c1ec.au
+    │       │   ├── eff1c207.au
+    │       │   ├── eff1c235.au
+    │       │   ├── eff1c23d.au
+    │       │   ├── eff1c249.au
+    │       │   ├── eff1c250.au
+    │       │   ├── eff1c269.au
+    │       │   ├── eff1c274.au
+    │       │   ├── eff1c27c.au
+    │       │   ├── eff1c28e.au
+    │       │   ├── eff1c2b2.au
+    │       │   ├── eff1c2bd.au
+    │       │   ├── eff1c2e3.au
+    │       │   ├── eff1c30c.au
+    │       │   ├── eff1c313.au
+    │       │   ├── eff1c31f.au
+    │       │   ├── eff1c329.au
+    │       │   ├── eff1c333.au
+    │       │   ├── eff1c35d.au
+    │       │   ├── eff1c368.au
+    │       │   ├── eff1c385.au
+    │       │   ├── eff1c38e.au
+    │       │   ├── eff1c3a0.au
+    │       │   ├── eff1c3b2.au
+    │       │   ├── eff1c3c3.au
+    │       │   ├── eff1c3c5.au
+    │       │   ├── eff1c3cf.au
+    │       │   ├── eff1c3e0.au
+    │       │   ├── eff1c3ec.au
+    │       │   ├── eff1c3fc.au
+    │       │   ├── eff1c40c.au
+    │       │   ├── eff1c430.au
+    │       │   ├── eff1c496.au
+    │       │   ├── eff1c4ab.au
+    │       │   ├── eff1c4b1.au
+    │       │   ├── eff1c4bd.au
+    │       │   ├── eff1c4ff.au
+    │       │   ├── eff1c519.au
+    │       │   ├── eff1c595.au
+    │       │   ├── eff1c598.au
+    │       │   ├── eff1c5b3.au
+    │       │   ├── eff1c5b7.au
+    │       │   ├── eff1c5c0.au
+    │       │   ├── eff1c5cc.au
+    │       │   ├── eff1c5e3.au
+    │       │   ├── eff1c5f4.au
+    │       │   ├── eff1c667.au
+    │       │   ├── eff1c672.au
+    │       │   ├── eff1c6b0.au
+    │       │   ├── eff1c6d8.au
+    │       │   ├── eff1c6ea.au
+    │       │   ├── eff1c715.au
+    │       │   ├── eff1c718.au
+    │       │   ├── eff1c722.au
+    │       │   ├── eff1c750.au
+    │       │   ├── eff1c75d.au
+    │       │   ├── eff1c77a.au
+    │       │   ├── eff1c78d.au
+    │       │   ├── eff1c79b.au
+    │       │   ├── eff1c7b8.au
+    │       │   ├── eff1c7c3.au
+    │       │   ├── eff1c7c9.au
+    │       │   ├── eff1c7e3.au
+    │       │   ├── eff1c7e7.au
+    │       │   ├── eff1c84a.au
+    │       │   ├── eff1c874.au
+    │       │   ├── eff1c893.au
+    │       │   ├── eff1c8a2.au
+    │       │   ├── eff1c8da.au
+    │       │   ├── eff1c8e0.au
+    │       │   ├── eff1c8ee.au
+    │       │   ├── eff1c8ef.au
+    │       │   ├── eff1c91c.au
+    │       │   ├── eff1c925.au
+    │       │   ├── eff1c94b.au
+    │       │   ├── eff1c972.au
+    │       │   ├── eff1c982.au
+    │       │   ├── eff1c989.au
+    │       │   ├── eff1c99d.au
+    │       │   ├── eff1c9a3.au
+    │       │   ├── eff1c9ad.au
+    │       │   ├── eff1ca01.au
+    │       │   ├── eff1ca0d.au
+    │       │   ├── eff1ca2f.au
+    │       │   ├── eff1ca5d.au
+    │       │   ├── eff1ca70.au
+    │       │   ├── eff1ca77.au
+    │       │   ├── eff1ca80.au
+    │       │   ├── eff1ca8d.au
+    │       │   ├── eff1ca9a.au
+    │       │   ├── eff1caa4.au
+    │       │   ├── eff1caa6.au
+    │       │   ├── eff1caaa.au
+    │       │   ├── eff1cabb.au
+    │       │   ├── eff1cabe.au
+    │       │   ├── eff1cad6.au
+    │       │   ├── eff1caf0.au
+    │       │   ├── eff1cafb.au
+    │       │   ├── eff1cafc.au
+    │       │   ├── eff1cb03.au
+    │       │   ├── eff1cb0b.au
+    │       │   ├── eff1cb3b.au
+    │       │   ├── eff1cb6e.au
+    │       │   ├── eff1cb7f.au
+    │       │   ├── eff1cb86.au
+    │       │   ├── eff1cb92.au
+    │       │   ├── eff1cb93.au
+    │       │   ├── eff1cb94.au
+    │       │   ├── eff1cb96.au
+    │       │   ├── eff1cbbe.au
+    │       │   ├── eff1cbd8.au
+    │       │   ├── eff1cbf5.au
+    │       │   ├── eff1cc05.au
+    │       │   ├── eff1cc22.au
+    │       │   ├── eff1cc3c.au
+    │       │   ├── eff1cc4a.au
+    │       │   ├── eff1cc72.au
+    │       │   ├── eff1cca9.au
+    │       │   ├── eff1ccd6.au
+    │       │   ├── eff1ccdc.au
+    │       │   ├── eff1ccff.au
+    │       │   ├── eff1cd19.au
+    │       │   ├── eff1cd21.au
+    │       │   ├── eff1cd2a.au
+    │       │   ├── eff1cd78.au
+    │       │   ├── eff1cda8.au
+    │       │   ├── eff1cdca.au
+    │       │   ├── eff1cdcc.au
+    │       │   ├── eff1ce16.au
+    │       │   ├── eff1ce40.au
+    │       │   ├── eff1ce4f.au
+    │       │   ├── eff1ce53.au
+    │       │   ├── eff1ce67.au
+    │       │   ├── eff1ce80.au
+    │       │   ├── eff1cec4.au
+    │       │   ├── eff1cecc.au
+    │       │   ├── eff1ceed.au
+    │       │   ├── eff1cf15.au
+    │       │   ├── eff1cf20.au
+    │       │   ├── eff1cf2e.au
+    │       │   ├── eff1cf46.au
+    │       │   ├── eff1cf75.au
+    │       │   ├── eff1cf7e.au
+    │       │   ├── eff1cf80.au
+    │       │   ├── eff1cf85.au
+    │       │   ├── eff1cf9a.au
+    │       │   ├── eff1cfa4.au
+    │       │   ├── eff1cfa8.au
+    │       │   ├── eff1cfdb.au
+    │       │   ├── eff1cfea.au
+    │       │   ├── eff1cfef.au
+    │       │   ├── eff1cff4.au
+    │       │   └── eff1cfff.au
+    │       ├── d1d
+    │       │   ├── eff1d070.au
+    │       │   ├── eff1d098.au
+    │       │   ├── eff1d0f9.au
+    │       │   ├── eff1d10c.au
+    │       │   ├── eff1d110.au
+    │       │   ├── eff1d1f7.au
+    │       │   ├── eff1d21b.au
+    │       │   ├── eff1d27c.au
+    │       │   ├── eff1d2d2.au
+    │       │   ├── eff1d30b.au
+    │       │   ├── eff1d323.au
+    │       │   ├── eff1d326.au
+    │       │   ├── eff1d361.au
+    │       │   ├── eff1d37a.au
+    │       │   ├── eff1d3df.au
+    │       │   ├── eff1d3e1.au
+    │       │   ├── eff1d3f4.au
+    │       │   ├── eff1d3f5.au
+    │       │   ├── eff1d3f9.au
+    │       │   ├── eff1d440.au
+    │       │   ├── eff1d446.au
+    │       │   ├── eff1d477.au
+    │       │   ├── eff1d49b.au
+    │       │   ├── eff1d4bb.au
+    │       │   ├── eff1d4f8.au
+    │       │   ├── eff1d50c.au
+    │       │   ├── eff1d51a.au
+    │       │   ├── eff1d540.au
+    │       │   ├── eff1d545.au
+    │       │   ├── eff1d596.au
+    │       │   ├── eff1d59c.au
+    │       │   ├── eff1d5b0.au
+    │       │   ├── eff1d626.au
+    │       │   ├── eff1d633.au
+    │       │   ├── eff1d692.au
+    │       │   ├── eff1d6de.au
+    │       │   ├── eff1d730.au
+    │       │   ├── eff1d753.au
+    │       │   ├── eff1d75e.au
+    │       │   ├── eff1d7b3.au
+    │       │   ├── eff1d7c7.au
+    │       │   ├── eff1d7f8.au
+    │       │   ├── eff1d811.au
+    │       │   ├── eff1d85b.au
+    │       │   ├── eff1d85d.au
+    │       │   ├── eff1d893.au
+    │       │   ├── eff1d91f.au
+    │       │   ├── eff1d954.au
+    │       │   ├── eff1d988.au
+    │       │   ├── eff1d98f.au
+    │       │   ├── eff1d9e3.au
+    │       │   ├── eff1da0e.au
+    │       │   ├── eff1da49.au
+    │       │   ├── eff1da6a.au
+    │       │   ├── eff1da89.au
+    │       │   ├── eff1daa2.au
+    │       │   ├── eff1dabf.au
+    │       │   ├── eff1dbf6.au
+    │       │   ├── eff1dc1b.au
+    │       │   ├── eff1dc1c.au
+    │       │   ├── eff1dc1f.au
+    │       │   ├── eff1dc38.au
+    │       │   ├── eff1dc5e.au
+    │       │   ├── eff1dc66.au
+    │       │   ├── eff1dc7e.au
+    │       │   ├── eff1dd03.au
+    │       │   ├── eff1dd23.au
+    │       │   ├── eff1dd30.au
+    │       │   ├── eff1dd3f.au
+    │       │   ├── eff1dd5a.au
+    │       │   ├── eff1dd74.au
+    │       │   ├── eff1ddb5.au
+    │       │   ├── eff1de03.au
+    │       │   ├── eff1de0b.au
+    │       │   ├── eff1de1b.au
+    │       │   ├── eff1deb2.au
+    │       │   ├── eff1debe.au
+    │       │   ├── eff1df39.au
+    │       │   ├── eff1dfa6.au
+    │       │   ├── eff1dfab.au
+    │       │   ├── eff1dfb2.au
+    │       │   ├── eff1dfd2.au
+    │       │   ├── eff1dfec.au
+    │       │   └── eff1dff7.au
+    │       ├── d1e
+    │       │   ├── eff1e018.au
+    │       │   ├── eff1e023.au
+    │       │   ├── eff1e045.au
+    │       │   ├── eff1e051.au
+    │       │   ├── eff1e066.au
+    │       │   ├── eff1e06f.au
+    │       │   ├── eff1e08d.au
+    │       │   ├── eff1e092.au
+    │       │   ├── eff1e096.au
+    │       │   ├── eff1e0b9.au
+    │       │   ├── eff1e0bf.au
+    │       │   ├── eff1e0ce.au
+    │       │   ├── eff1e0e5.au
+    │       │   ├── eff1e0ee.au
+    │       │   ├── eff1e104.au
+    │       │   ├── eff1e133.au
+    │       │   ├── eff1e13b.au
+    │       │   ├── eff1e14b.au
+    │       │   ├── eff1e14c.au
+    │       │   ├── eff1e153.au
+    │       │   ├── eff1e19a.au
+    │       │   ├── eff1e1a0.au
+    │       │   ├── eff1e1be.au
+    │       │   ├── eff1e1d7.au
+    │       │   ├── eff1e207.au
+    │       │   ├── eff1e20d.au
+    │       │   ├── eff1e23b.au
+    │       │   ├── eff1e243.au
+    │       │   ├── eff1e24e.au
+    │       │   ├── eff1e278.au
+    │       │   ├── eff1e29f.au
+    │       │   ├── eff1e2c9.au
+    │       │   ├── eff1e30b.au
+    │       │   ├── eff1e33e.au
+    │       │   ├── eff1e341.au
+    │       │   ├── eff1e363.au
+    │       │   ├── eff1e388.au
+    │       │   ├── eff1e396.au
+    │       │   ├── eff1e415.au
+    │       │   ├── eff1e447.au
+    │       │   ├── eff1e44d.au
+    │       │   ├── eff1e458.au
+    │       │   ├── eff1e47b.au
+    │       │   ├── eff1e495.au
+    │       │   ├── eff1e4a1.au
+    │       │   ├── eff1e4a9.au
+    │       │   ├── eff1e4c3.au
+    │       │   ├── eff1e501.au
+    │       │   ├── eff1e50e.au
+    │       │   ├── eff1e535.au
+    │       │   ├── eff1e545.au
+    │       │   ├── eff1e55a.au
+    │       │   ├── eff1e55e.au
+    │       │   ├── eff1e570.au
+    │       │   ├── eff1e59d.au
+    │       │   ├── eff1e5a2.au
+    │       │   ├── eff1e5ac.au
+    │       │   ├── eff1e5b2.au
+    │       │   ├── eff1e5b4.au
+    │       │   ├── eff1e5c4.au
+    │       │   ├── eff1e5f7.au
+    │       │   ├── eff1e609.au
+    │       │   ├── eff1e633.au
+    │       │   ├── eff1e643.au
+    │       │   ├── eff1e655.au
+    │       │   ├── eff1e659.au
+    │       │   ├── eff1e662.au
+    │       │   ├── eff1e690.au
+    │       │   ├── eff1e696.au
+    │       │   ├── eff1e6d1.au
+    │       │   ├── eff1e6d2.au
+    │       │   ├── eff1e712.au
+    │       │   ├── eff1e735.au
+    │       │   ├── eff1e743.au
+    │       │   ├── eff1e769.au
+    │       │   ├── eff1e78b.au
+    │       │   ├── eff1e79a.au
+    │       │   ├── eff1e7c9.au
+    │       │   ├── eff1e7d8.au
+    │       │   ├── eff1e7fa.au
+    │       │   ├── eff1e7fb.au
+    │       │   ├── eff1e820.au
+    │       │   ├── eff1e847.au
+    │       │   ├── eff1e895.au
+    │       │   ├── eff1e896.au
+    │       │   ├── eff1e89c.au
+    │       │   ├── eff1e8b4.au
+    │       │   ├── eff1e8be.au
+    │       │   ├── eff1e8c3.au
+    │       │   ├── eff1e8df.au
+    │       │   ├── eff1e8f4.au
+    │       │   ├── eff1e8fd.au
+    │       │   ├── eff1e901.au
+    │       │   ├── eff1e90e.au
+    │       │   ├── eff1e919.au
+    │       │   ├── eff1e93f.au
+    │       │   ├── eff1e948.au
+    │       │   ├── eff1e967.au
+    │       │   ├── eff1e978.au
+    │       │   ├── eff1e97e.au
+    │       │   ├── eff1e980.au
+    │       │   ├── eff1e9b0.au
+    │       │   ├── eff1e9f5.au
+    │       │   ├── eff1ea0a.au
+    │       │   ├── eff1ea11.au
+    │       │   ├── eff1ea28.au
+    │       │   ├── eff1ea37.au
+    │       │   ├── eff1ea3a.au
+    │       │   ├── eff1ea56.au
+    │       │   ├── eff1ea64.au
+    │       │   ├── eff1ea73.au
+    │       │   ├── eff1eab6.au
+    │       │   ├── eff1eac7.au
+    │       │   ├── eff1eb04.au
+    │       │   ├── eff1eb07.au
+    │       │   ├── eff1eb08.au
+    │       │   ├── eff1eb37.au
+    │       │   ├── eff1eb3c.au
+    │       │   ├── eff1eb56.au
+    │       │   ├── eff1eb71.au
+    │       │   ├── eff1eb7c.au
+    │       │   ├── eff1eb90.au
+    │       │   ├── eff1ebca.au
+    │       │   ├── eff1ebcd.au
+    │       │   ├── eff1ebd6.au
+    │       │   ├── eff1ebdb.au
+    │       │   ├── eff1ec0e.au
+    │       │   ├── eff1ec18.au
+    │       │   ├── eff1ec2f.au
+    │       │   ├── eff1ec5a.au
+    │       │   ├── eff1ec75.au
+    │       │   ├── eff1ec7c.au
+    │       │   ├── eff1ec81.au
+    │       │   ├── eff1ec97.au
+    │       │   ├── eff1ecad.au
+    │       │   ├── eff1ecbe.au
+    │       │   ├── eff1ecc4.au
+    │       │   ├── eff1ecf0.au
+    │       │   ├── eff1ecf7.au
+    │       │   ├── eff1ed18.au
+    │       │   ├── eff1ed30.au
+    │       │   ├── eff1ed37.au
+    │       │   ├── eff1ed38.au
+    │       │   ├── eff1ed65.au
+    │       │   ├── eff1ed70.au
+    │       │   ├── eff1ed8f.au
+    │       │   ├── eff1eda2.au
+    │       │   ├── eff1edc4.au
+    │       │   ├── eff1edd7.au
+    │       │   ├── eff1edd9.au
+    │       │   ├── eff1ede8.au
+    │       │   ├── eff1edf1.au
+    │       │   ├── eff1edf8.au
+    │       │   ├── eff1ee21.au
+    │       │   ├── eff1ee43.au
+    │       │   ├── eff1ee56.au
+    │       │   ├── eff1ee6d.au
+    │       │   ├── eff1ee7b.au
+    │       │   ├── eff1ee7d.au
+    │       │   ├── eff1eeb6.au
+    │       │   ├── eff1eecb.au
+    │       │   ├── eff1eecc.au
+    │       │   ├── eff1eee2.au
+    │       │   ├── eff1eef1.au
+    │       │   ├── eff1eef3.au
+    │       │   ├── eff1ef06.au
+    │       │   ├── eff1ef33.au
+    │       │   ├── eff1ef5b.au
+    │       │   ├── eff1ef6a.au
+    │       │   ├── eff1ef71.au
+    │       │   ├── eff1efbb.au
+    │       │   ├── eff1efc0.au
+    │       │   ├── eff1efc1.au
+    │       │   └── eff1effe.au
+    │       └── d1f
+    │           ├── eff1f02b.au
+    │           ├── eff1f053.au
+    │           ├── eff1f072.au
+    │           ├── eff1f0b6.au
+    │           ├── eff1f118.au
+    │           ├── eff1f13b.au
+    │           ├── eff1f178.au
+    │           ├── eff1f18a.au
+    │           ├── eff1f1c2.au
+    │           ├── eff1f1ea.au
+    │           ├── eff1f211.au
+    │           ├── eff1f223.au
+    │           ├── eff1f232.au
+    │           ├── eff1f23c.au
+    │           ├── eff1f2c0.au
+    │           ├── eff1f33e.au
+    │           ├── eff1f35c.au
+    │           ├── eff1f3e4.au
+    │           ├── eff1f3fa.au
+    │           ├── eff1f46d.au
+    │           ├── eff1f4b9.au
+    │           ├── eff1f4cb.au
+    │           ├── eff1f4da.au
+    │           ├── eff1f4e5.au
+    │           ├── eff1f4f1.au
+    │           ├── eff1f505.au
+    │           ├── eff1f56c.au
+    │           ├── eff1f5ae.au
+    │           ├── eff1f5b9.au
+    │           ├── eff1f5dc.au
+    │           ├── eff1f60c.au
+    │           ├── eff1f681.au
+    │           ├── eff1f6a9.au
+    │           ├── eff1f6b2.au
+    │           ├── eff1f6f1.au
+    │           ├── eff1f6f7.au
+    │           ├── eff1f734.au
+    │           ├── eff1f7d4.au
+    │           ├── eff1f7d9.au
+    │           ├── eff1f7e8.au
+    │           ├── eff1f835.au
+    │           ├── eff1f840.au
+    │           ├── eff1f882.au
+    │           ├── eff1f8b6.au
+    │           ├── eff1f986.au
+    │           ├── eff1f997.au
+    │           ├── eff1f9b4.au
+    │           ├── eff1f9f8.au
+    │           ├── eff1f9fb.au
+    │           ├── eff1fa0f.au
+    │           ├── eff1fa8c.au
+    │           ├── eff1faa5.au
+    │           ├── eff1fabe.au
+    │           ├── eff1fae1.au
+    │           ├── eff1fb61.au
+    │           ├── eff1fb7b.au
+    │           ├── eff1fbb7.au
+    │           ├── eff1fbbd.au
+    │           ├── eff1fbcb.au
+    │           ├── eff1fc1f.au
+    │           ├── eff1fc45.au
+    │           ├── eff1fc5a.au
+    │           ├── eff1fc67.au
+    │           ├── eff1fca9.au
+    │           ├── eff1fd3b.au
+    │           ├── eff1fd43.au
+    │           ├── eff1fd6f.au
+    │           ├── eff1fdac.au
+    │           ├── eff1fdba.au
+    │           ├── eff1fe0e.au
+    │           ├── eff1fe2c.au
+    │           ├── eff1fe3b.au
+    │           ├── eff1fe41.au
+    │           ├── eff1fea4.au
+    │           ├── eff1fecb.au
+    │           ├── eff1fed5.au
+    │           ├── eff1fee8.au
+    │           ├── eff1ff18.au
+    │           ├── eff1ff1b.au
+    │           ├── eff1ff29.au
+    │           ├── eff1ff3b.au
+    │           └── eff1ff5a.au
+    ├── Family band concert - 7:28:20.aup
+    ├── Livestream Real 1.band
+    │   ├── Alternatives
+    │   │   └── 000
+    │   │       ├── DisplayState.plist
+    │   │       ├── DisplayStateArchive
+    │   │       ├── MetaData.plist
+    │   │       ├── ProjectData
+    │   │       └── Undo Data.nosync
+    │   ├── Media
+    │   │   ├── Audio Files
+    │   │   │   ├── PA System - Livestream#01.aif
+    │   │   │   ├── PA System - Livestream#02.aif
+    │   │   │   ├── PreAmp - Livestream#02.aif
+    │   │   │   └── PreAmp - Livestream#03.aif
+    │   │   └── Freeze Files.nosync
+    │   ├── projectData
+    │   └── Resources
+    │       └── ProjectInformation.plist
+    ├── Livestream Real.band
+    │   ├── Contents
+    │   │   └── PkgInfo
+    │   ├── Media
+    │   │   ├── Images
+    │   │   ├── PA System - Livestream#01.aif
+    │   │   ├── PA System - Livestream#02.aif
+    │   │   ├── PreAmp - Livestream#02.aif
+    │   │   ├── PreAmp - Livestream#03.aif
+    │   │   └── Recording
+    │   ├── Output
+    │   │   ├── arrange_screenshot.tiff
+    │   │   └── metadata.plist
+    │   ├── projectData
+    │   ├── Thumbs
+    │   └── Undo Data
+    ├── Trach 1 Export - 7:28:20.wav
+    └── Track 2 Export - 7:28:20.wav
+    
+    28 directories, 1102 files

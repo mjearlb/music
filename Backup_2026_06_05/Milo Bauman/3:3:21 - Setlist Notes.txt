@@ -1,0 +1,108 @@
+3/3/21 - Milo Bauman & Andrew Mappes
+
+Venue: 
+130 Magnolia Street
+Athens, GA
+
+Set 1: (35:55)
+[1] Mike's Song (0:00 - 14:50)
+[2] Mike's Song (14:52 - 22:59) 
+[3] Mike's Song (23:29 - 23:45) -> 
+[4] I Am Hydrogen (23:45 - 26:56)
+[5] Chalk Dust Torture (27:41 - 34:11)
+
+Notes: 
+[1] Believed to be the debut. Paused to work out the chords. Careful with that Axe, Eugene quoted. Horse With No Name teased and quoted. 
+[2] Andrew takes a call around 22:59. 
+[5] Mike's Song teased afterwards. 
+
+Reviews: 
+Milo: 
+Original note from audacity project: "it's okay"
+
+[1] Incorrect Mike's riff. Whole thing is very rough, but interesting since it is most likely the first time ever played.  
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2021/3:3:21
+    ├── 3:3:21 - Setlist Notes.txt
+    ├── Jam - 3:3:21 - Mike’s Song, Chalkdust Torture_data
+    │   └── eff
+    │       └── d1e
+    │           ├── eff1e03f.au
+    │           ├── eff1e049.au
+    │           ├── eff1e089.au
+    │           ├── eff1e0e1.au
+    │           ├── eff1e110.au
+    │           ├── eff1e17d.au
+    │           ├── eff1e259.au
+    │           ├── eff1e278.au
+    │           ├── eff1e297.au
+    │           ├── eff1e359.au
+    │           ├── eff1e376.au
+    │           ├── eff1e39c.au
+    │           ├── eff1e3d4.au
+    │           ├── eff1e3f4.au
+    │           ├── eff1e3fe.au
+    │           ├── eff1e436.au
+    │           ├── eff1e48a.au
+    │           ├── eff1e48f.au
+    │           ├── eff1e4e2.au
+    │           ├── eff1e51f.au
+    │           ├── eff1e527.au
+    │           ├── eff1e550.au
+    │           ├── eff1e57f.au
+    │           ├── eff1e580.au
+    │           ├── eff1e58c.au
+    │           ├── eff1e5c3.au
+    │           ├── eff1e5db.au
+    │           ├── eff1e5df.au
+    │           ├── eff1e666.au
+    │           ├── eff1e6f2.au
+    │           ├── eff1e704.au
+    │           ├── eff1e70a.au
+    │           ├── eff1e71a.au
+    │           ├── eff1e79f.au
+    │           ├── eff1e7b7.au
+    │           ├── eff1e80b.au
+    │           ├── eff1e841.au
+    │           ├── eff1e855.au
+    │           ├── eff1e876.au
+    │           ├── eff1e8a4.au
+    │           ├── eff1e8dc.au
+    │           ├── eff1e8f4.au
+    │           ├── eff1e923.au
+    │           ├── eff1e973.au
+    │           ├── eff1e9a8.au
+    │           ├── eff1e9b5.au
+    │           ├── eff1e9c1.au
+    │           ├── eff1e9c4.au
+    │           ├── eff1e9ee.au
+    │           ├── eff1ea98.au
+    │           ├── eff1eacb.au
+    │           ├── eff1eadf.au
+    │           ├── eff1eb75.au
+    │           ├── eff1ebdc.au
+    │           ├── eff1ec3d.au
+    │           ├── eff1ec8d.au
+    │           ├── eff1ed36.au
+    │           ├── eff1ed38.au
+    │           ├── eff1ed58.au
+    │           ├── eff1ed86.au
+    │           ├── eff1ed96.au
+    │           ├── eff1edc6.au
+    │           ├── eff1eddd.au
+    │           ├── eff1ee9d.au
+    │           ├── eff1eeb1.au
+    │           ├── eff1eed0.au
+    │           ├── eff1eedc.au
+    │           ├── eff1eeeb.au
+    │           ├── eff1ef61.au
+    │           ├── eff1ef86.au
+    │           ├── eff1ef9b.au
+    │           ├── eff1efe2.au
+    │           └── eff1efe9.au
+    ├── Jam - 3:3:21 - Mike’s Song, Chalkdust Torture.aup
+    └── Jam - 3:3:21 - Mike’s Song, Chalkdust Torture.m4a
+    
+    4 directories, 76 files

@@ -1,0 +1,54 @@
+9/8/21 - Milo Bauman & Andrew Mappes
+
+Venue: 
+Bridgewater
+260 Katydid Drive
+Athens, GA
+
+Set 1: (1:03:20)
+[1] Tuning (0:00 - 1:45) > 
+[2] Free (1:45 - 10:50) -> 
+[3] Harry Hood (10:50 - 13:05)
+[4] Jam (14:14 - 16:50) -> 
+[5] Everything's Right (16:50 - 22:59)
+[6] Althea (23:02 - 34:41) -> 
+[7] Mr. Charlie (34:41 - 41:01)
+[8] Ya Mar (41:09 - 45:43)
+[9] Jam (48:50 - 51:10)
+
+Notes: 
+This show recording was originally labelled as "9/9/21", but the metadata notes that the recording was created and last modified September 8, 2021 at 8:57 PM, so it has been changed to 9/8/21. This show was considered lost until 9/7/24 when it was found again and properly archived. 
+
+[1] Mike's Song teased by Milo. Fluffhead, Free teased by Andrew. 
+[2] Debut, instrumental. Andrew played and Milo soloed over. 
+[3] Sort of a slow -> Harry Hood, but takes a minute to settle into the proper chord progression rhythm. 
+[5] Debut. 
+
+Reviews: 
+Milo: 
+9/9/21 was the day we all went to an Underground Springhouse show, so I think this is most likely 9/8/21. 
+
+[2] Honestly a pretty cool jam. Really good peak thanks to Andrew. 
+[3] Great call from Andrew to do -> Harry Hood. My soloing on it was not amazing, but Andrew's backing is great. 
+
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2021/9:8:21
+    ├── 9:8:21 Setlist Notes.txt
+    └── Jam - 9:9:21.band
+        ├── Alternatives
+        │   └── 000
+        │       ├── DisplayState.plist
+        │       ├── DisplayStateArchive
+        │       ├── MetaData.plist
+        │       ├── ProjectData
+        │       ├── Undo Data.nosync
+        │       └── WindowImage.jpg
+        ├── Media
+        │   └── Audio Files
+        │       └── Untitled_1#01.wav
+        ├── projectData
+        └── Resources
+            └── ProjectInformation.plist
+    
+    8 directories, 9 files
