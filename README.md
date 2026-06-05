@@ -29,4 +29,6 @@ Our first big show was at Mapfest 2021, which was also our first time playing wi
 
 2023 and 2024 would see a large volume of acoustic sets for us. This was due to the fact that both of us were living places that we couldn't be as loud as we might be with electric instruments. This, and the fact that Andrew bought a very nice acoustic guitar. 
 
+<img src="resources/milo_bauman/IMG_5875.jpg" width=500 alt="Andrew playing acoustic guitar in 2022">
+
 Since January 2025, we have agreed to meet at least once a month to play music together, a streak we have not yet broken (as of June 2026). In my opinion, this consistency has resulted in some of our finest performances and improvisation. 
