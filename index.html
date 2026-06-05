@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jams Archive</title>
+    <style>
+        body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; display: flex; height: 100vh; background: #fdfdfd; color: #333; }
+        #sidebar { width: 320px; border-right: 1px solid #e1e4e8; display: flex; flex-direction: column; background: #f6f8fa; }
+        #header { padding: 20px; border-bottom: 1px solid #e1e4e8; }
+        #header h1 { margin: 0 0 10px 0; font-size: 1.25rem; color: #24292e; }
+        #backup-selector { width: 100%; padding: 8px; border-radius: 6px; border: 1px solid #d1d5da; background: #fff; font-size: 0.9rem; }
+        #nav-tree { flex: 1; overflow-y: auto; padding: 20px; }
+        .band-section { margin-bottom: 15px; }
+        .band-title { font-weight: 600; padding: 6px; cursor: pointer; color: #0366d6; display: flex; justify-content: space-between; border-radius: 4px; }
+        .band-title:hover { background: #eaecef; }
+        .file-list { list-style: none; padding-left: 15px; margin: 5px 0 0 0; display: none; }
+        .file-list.open { display: block; }
+        .file-item { padding: 6px 8px; cursor: pointer; font-size: 0.9rem; color: #586069; border-radius: 4px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .file-item:hover { background: #eaecef; color: #24292e; }
+        #content-area { flex: 1; padding: 30px; overflow-y: auto; background: #fff; }
+        #file-title { margin-top: 0; border-bottom: 1px solid #eaecef; padding-bottom: 10px; color: #24292e; }
+        pre { background: #f6f8fa; padding: 20px; border-radius: 6px; border: 1px solid #e1e4e8; white-space: pre-wrap; font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 0.95rem; line-height: 1.5; }
+    </style>
+</head>
+<body>
+
+    <div id="sidebar">
+        <div id="header">
+            <h1>🎵 Jams Archive</h1>
+            <select id="backup-selector" onchange="switchBackup(this.value)"></select>
+        </div>
+        <div id="nav-tree"></div>
+    </div>
+
+    <div id="content-area">
+        <h2 id="file-title">Select a setlist note</h2>
+        <pre id="file-content">File content will display here...</pre>
+    </div>
+
+    <script>
+        let archiveData = {};
+
+        async function init() {
+            try {
+                const res = await fetch('manifest.json');
+                archiveData = await res.json();
+
+                const selector = document.getElementById('backup-selector');
+                const backups = Object.keys(archiveData).sort().reverse(); // Newest backups first
+
+                backups.forEach(backup => {
+                    const opt = document.createElement('option');
+                    opt.value = backup;
+                    opt.innerText = backup.replace(/_/g, ' ');
+                    selector.appendChild(opt);
+                });
+
+                if (backups.length > 0) {
+                    switchBackup(backups[0]); // Default to the newest backup folder
+                }
+            } catch (err) {
+                document.getElementById('file-content').innerText = "Error loading manifest.json. Ensure you ran the Python script.";
+            }
+        }
+
+        function switchBackup(backupKey) {
+            const navTree = document.getElementById('nav-tree');
+            navTree.innerHTML = '';
+
+            const bands = archiveData[backupKey];
+
+            for (const [band, files] of Object.entries(bands)) {
+                const section = document.createElement('div');
+                section.className = 'band-section';
+
+                const title = document.createElement('div');
+                title.className = 'band-title';
+                title.innerHTML = `<span>📁 ${band}</span><span>▼</span>`;
+
+                const uList = document.createElement('ul');
+                uList.className = 'file-list';
+
+                title.onclick = () => uList.classList.toggle('open');
+
+                files.forEach(file => {
+                    const li = document.createElement('li');
+                    li.className = 'file-item';
+                    li.innerText = `📄 ${file}`;
+                    li.title = file;
+                    li.onclick = () => loadFile(backupKey, band, file);
+                    uList.appendChild(li);
+                });
+
+                section.appendChild(title);
+                section.appendChild(uList);
+                navTree.appendChild(section);
+            }
+        }
+
+        async function loadFile(backup, band, file) {
+            // encodeURIComponent cleanly handles spaces, question marks, and colons in web paths
+            const path = `${encodeURIComponent(backup)}/${encodeURIComponent(band)}/${encodeURIComponent(file)}`;
+            document.getElementById('file-title').innerText = file;
+
+            try {
+                const res = await fetch(path);
+                if (!res.ok) throw new Error();
+                const text = await res.text();
+                document.getElementById('file-content').innerText = text;
+            } catch (err) {
+                document.getElementById('file-content').innerText = "Error pulling file contents from server.";
+            }
+        }
+
+        init();
+    </script>
+</body>
+</html>
