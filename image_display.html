@@ -4,10 +4,16 @@
     <meta charset="UTF-8">
     <title>Image Archive</title>
     <style>
-        body { font-family: sans-serif; padding: 0; margin: 0; }
-        #nav-bar { padding: 15px; border-bottom: 1px solid #ddd; }
-        #gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; padding: 30px; }
-        .img-card { border: 1px solid #ddd; border-radius: 6px; padding: 10px; }
+        body { margin: 0; font-family: -apple-system, sans-serif; display: flex; flex-direction: column; height: 100vh; background: #fdfdfd; }
+        #nav-bar { padding: 15px; border-bottom: 1px solid #ddd; background: #fff; }
+        #main-container { display: flex; flex: 1; overflow: hidden; }
+        #sidebar { width: 320px; border-right: 1px solid #e1e4e8; background: #f6f8fa; display: flex; flex-direction: column; overflow-y: auto; }
+        #content-area { flex: 1; padding: 30px; overflow-y: auto; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; }
+        .band-title { font-weight: 600; padding: 10px; cursor: pointer; color: #0366d6; }
+        .file-item { padding: 6px 15px; cursor: pointer; color: #586069; }
+        .file-item:hover { background: #eaecef; }
+        .file-list { display: none; list-style: none; padding: 0; margin: 0; }
+        .img-card { border: 1px solid #ddd; border-radius: 6px; padding: 10px; background: #fff; }
         img { width: 100%; border-radius: 4px; }
     </style>
 </head>
@@ -16,23 +22,53 @@
         <a href="index.html" style="color: #586069;">Setlists</a> | 
         <a href="image_display.html" style="font-weight: bold; color: #0366d6;">Image Archive</a>
     </nav>
-    <div id="gallery"></div>
+    <div id="main-container">
+        <div id="sidebar">
+            <div id="nav-tree"></div>
+        </div>
+        <div id="content-area">
+            <div id="image-container">Select a folder to view images.</div>
+        </div>
+    </div>
     <script>
-        async function loadImages() {
+        async function init() {
             const res = await fetch('manifest.json');
             const data = await res.json();
             const resources = data['Resources'] || {};
-            const gallery = document.getElementById('gallery');
+            const navTree = document.getElementById('nav-tree');
+            const imageContainer = document.getElementById('image-container');
+
             for (const [band, files] of Object.entries(resources)) {
-                files.forEach(file => {
-                    const card = document.createElement('div');
-                    card.className = 'img-card';
-                    card.innerHTML = `<img src="resources/${band}/${file}"><p>${file}</p>`;
-                    gallery.appendChild(card);
-                });
+                const section = document.createElement('div');
+                const header = document.createElement('div');
+                header.className = 'band-title';
+                header.innerText = `📁 ${band}`;
+                const uList = document.createElement('ul');
+                uList.className = 'file-list';
+                header.onclick = () => {
+                    uList.style.display = uList.style.display === 'block' ? 'none' : 'block';
+                };
+                
+                const bandLink = document.createElement('li');
+                bandLink.className = 'file-item';
+                bandLink.innerText = "View All";
+                bandLink.onclick = () => {
+                    imageContainer.innerHTML = '';
+                    files.forEach(file => {
+                        const card = document.createElement('div');
+                        card.className = 'img-card';
+                        card.innerHTML = `<img src="resources/${band}/${file}"><p>${file}</p>`;
+                        imageContainer.appendChild(card);
+                    });
+                };
+                uList.appendChild(bandLink);
+                
+                section.appendChild(header);
+                section.appendChild(uList);
+                navTree.appendChild(section);
             }
         }
-        loadImages();
+        init();
     </script>
 </body>
 </html>

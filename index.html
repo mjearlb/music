@@ -4,16 +4,16 @@
     <meta charset="UTF-8">
     <title>Setlist Archive</title>
     <style>
-      body { margin: 0; font-family: -apple-system, sans-serif; display: flex; flex-direction: column; height: 100vh; background: #fdfdfd; }
-      #nav-bar { padding: 15px; border-bottom: 1px solid #ddd; background: #fff; }
-      #main-container { display: flex; flex: 1; overflow: hidden; }
-      /* Added overflow-y: auto here */
-      #sidebar { width: 320px; border-right: 1px solid #e1e4e8; background: #f6f8fa; display: flex; flex-direction: column; overflow-y: auto; }
-      #content-area { flex: 1; padding: 30px; overflow-y: auto; }
-      .band-title { font-weight: 600; padding: 10px; cursor: pointer; color: #0366d6; }
-      .file-item { padding: 6px 15px; cursor: pointer; color: #586069; }
-      .file-item:hover { background: #eaecef; }
-      pre { background: #f6f8fa; padding: 20px; border-radius: 6px; border: 1px solid #e1e4e8; }
+        body { margin: 0; font-family: -apple-system, sans-serif; display: flex; flex-direction: column; height: 100vh; background: #fdfdfd; }
+        #nav-bar { padding: 15px; border-bottom: 1px solid #ddd; background: #fff; }
+        #main-container { display: flex; flex: 1; overflow: hidden; }
+        #sidebar { width: 320px; border-right: 1px solid #e1e4e8; background: #f6f8fa; display: flex; flex-direction: column; overflow-y: auto; }
+        #content-area { flex: 1; padding: 30px; overflow-y: auto; }
+        .band-title { font-weight: 600; padding: 10px; cursor: pointer; color: #0366d6; }
+        .file-item { padding: 6px 15px; cursor: pointer; color: #586069; }
+        .file-item:hover { background: #eaecef; }
+        .file-list { display: none; list-style: none; padding: 0; margin: 0; }
+        pre { background: #f6f8fa; padding: 20px; border-radius: 6px; border: 1px solid #e1e4e8; }
     </style>
 </head>
 <body>
@@ -53,9 +53,14 @@
             const bands = archiveData[backupKey];
             for (const [band, files] of Object.entries(bands)) {
                 const section = document.createElement('div');
-                section.innerHTML = `<div class="band-title">📁 ${band}</div>`;
+                const header = document.createElement('div');
+                header.className = 'band-title';
+                header.innerText = `📁 ${band}`;
                 const uList = document.createElement('ul');
-                uList.style.listStyle = 'none'; uList.padding = 0;
+                uList.className = 'file-list';
+                header.onclick = () => {
+                    uList.style.display = uList.style.display === 'block' ? 'none' : 'block';
+                };
                 files.forEach(file => {
                     const li = document.createElement('li');
                     li.className = 'file-item';
@@ -67,6 +72,7 @@
                     };
                     uList.appendChild(li);
                 });
+                section.appendChild(header);
                 section.appendChild(uList);
                 navTree.appendChild(section);
             }
