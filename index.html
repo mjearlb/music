@@ -99,19 +99,27 @@
         }
 
         async function loadFile(backup, band, file) {
-            // encodeURIComponent cleanly handles spaces, question marks, and colons in web paths
-            const path = `${encodeURIComponent(backup)}/${encodeURIComponent(band)}/${encodeURIComponent(file)}`;
-            document.getElementById('file-title').innerText = file;
-
-            try {
-                const res = await fetch(path);
-                if (!res.ok) throw new Error();
-                const text = await res.text();
-                document.getElementById('file-content').innerText = text;
-            } catch (err) {
-                document.getElementById('file-content').innerText = "Error pulling file contents from server.";
-            }
-        }
+	    const isImage = /\.(jpg|jpeg|png|gif|bmp|webp)$/i.test(file);
+       	    const path = `${encodeURIComponent(backup)}/${encodeURIComponent(band)}/${encodeURIComponent(file)}`;
+	
+	    document.getElementById('file-title').innerText = file;
+	    const contentArea = document.getElementById('file-content');
+	
+	    if (isImage) {
+                // Clear previous content and show image
+                contentArea.innerHTML = `<img src="${path}" style="max-width:100%; border-radius:4px;">`;
+	    } else {
+                // Fetch text
+                try {
+                    const res = await fetch(path);
+                    if (!res.ok) throw new Error();
+                    const text = await res.text();
+                    contentArea.innerHTML = `<pre>${text}</pre>`;
+                } catch (err) {
+                    contentArea.innerText = "Error loading file.";
+                }
+	    }
+	}
 
         init();
     </script>
