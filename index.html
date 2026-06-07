@@ -2,43 +2,79 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>mjearlb - Music Archive</title>
-    <style> /* ... keep your existing CSS ... */ </style>
+    <title>mjearlb - Archive</title>
+    <style>
+        body { margin: 0; font-family: sans-serif; display: flex; height: 100vh; background: #fdfdfd; }
+        #sidebar { width: 320px; border-right: 1px solid #e1e4e8; background: #f6f8fa; display: flex; flex-direction: column; }
+        #header { padding: 20px; }
+        #nav-tree { flex: 1; overflow-y: auto; padding: 20px; }
+        #content-area { flex: 1; padding: 30px; overflow-y: auto; }
+        .tab-btn { padding: 10px; cursor: pointer; background: #eee; border: none; width: 100%; text-align: left; }
+        .tab-btn:hover { background: #ddd; }
+        #db-view { display: none; }
+        pre { background: #f6f8fa; padding: 20px; border-radius: 6px; }
+    </style>
 </head>
 <body>
     <div id="sidebar">
+        <div id="header">
+            <h1>Archive</h1>
+            <select id="backup-selector" onchange="switchBackup(this.value)"></select>
+            <br><br>
+            <button class="tab-btn" onclick="showTab('file-view')">📁 File Explorer</button>
+            <button class="tab-btn" onclick="showTab('db-view')">🗄️ Database View</button>
         </div>
+        <div id="nav-tree"></div>
+    </div>
 
     <div id="content-area">
-        <h2 id="file-title">Select a file</h2>
-        <pre id="file-content">Database initializing...</pre>
+        <div id="file-view">
+            <h2 id="file-title">Select a file</h2>
+            <pre id="file-content">File content...</pre>
+        </div>
+        <div id="db-view">
+            <h2>Database Query</h2>
+            <input type="text" id="sql-query" placeholder="SELECT * FROM Shows..." style="width:80%">
+            <button onclick="runQuery()">Run Query</button>
+            <pre id="db-results">Initializing database...</pre>
+        </div>
     </div>
 
     <script type="module">
         import { createDbWorker } from 'https://cdn.jsdelivr.net/npm/sql.js-httpvfs@1.0.0/dist/sql-wasm.js';
-
+        
         let dbWorker;
+        window.archiveData = {}; // Global for access
 
         async function init() {
-            // Initialize Database
+            // 1. Initialize DB immediately
             dbWorker = await createDbWorker(
                 [{ from: 'url', config: { url: 'music.db', requestChunkSize: 4096 } }],
-                'sqlite.worker.js', 
-                'sql-wasm.wasm'
+                'sqlite.worker.js', 'sql-wasm.wasm'
             );
-            document.getElementById('file-content').innerText = "Database ready. Select a file.";
-            
-            // ... Call your existing load logic here ...
+            document.getElementById('db-results').innerText = "Database ready. Enter SQL query above.";
+
+            // 2. Load your original manifest for the File Explorer
+            const res = await fetch('manifest.json');
+            window.archiveData = await res.json();
+            // ... (rest of your original initialization logic) ...
         }
 
-        async function loadFile(backup, band, file) {
-            // Example Query: Find this file/setlist in the database
-            const query = `SELECT * FROM Performances WHERE set_id IN (SELECT id FROM Sets WHERE show_id IN (SELECT id FROM Shows WHERE date LIKE ?))`;
-            const results = await dbWorker.db.query(query, [`%${file}%`]);
-            
-            // Display results
-            document.getElementById('file-content').innerText = JSON.stringify(results, null, 2);
-        }
+        // --- New Database Functions ---
+        window.runQuery = async () => {
+            const query = document.getElementById('sql-query').value;
+            try {
+                const results = await dbWorker.db.query(query);
+                document.getElementById('db-results').innerText = JSON.stringify(results, null, 2);
+            } catch (e) {
+                document.getElementById('db-results').innerText = "Query Error: " + e.message;
+            }
+        };
+
+        window.showTab = (tabId) => {
+            document.getElementById('file-view').style.display = (tabId === 'file-view') ? 'block' : 'none';
+            document.getElementById('db-view').style.display = (tabId === 'db-view') ? 'block' : 'none';
+        };
 
         init();
     </script>
