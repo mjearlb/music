@@ -2,20 +2,22 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Milo Bauman Archive</title>
+    <title>mjearlb - Archive</title>
     <style>
-        body { margin: 0; display: flex; height: 100vh; font-family: sans-serif; }
-        #sidebar { width: 320px; border-right: 1px solid #ccc; background: #f6f8fa; display: flex; flex-direction: column; }
-        #content-area { flex: 1; display: flex; flex-direction: column; overflow-y: auto; }
-        .content-window { flex: 1; border-bottom: 2px solid #eee; padding: 20px; overflow-y: auto; }
-        .band-title { cursor: pointer; padding: 5px; color: #0366d6; font-weight: bold; }
-        .file-item { cursor: pointer; padding: 5px 15px; color: #555; }
-        .file-item:hover { background: #eee; }
+        /* Your original sleek CSS */
+        body { margin: 0; font-family: -apple-system, sans-serif; display: flex; height: 100vh; background: #fdfdfd; }
+        #sidebar { width: 320px; border-right: 1px solid #e1e4e8; background: #f6f8fa; display: flex; flex-direction: column; }
+        #content-area { flex: 1; padding: 30px; overflow-y: auto; }
+        .band-title { font-weight: 600; padding: 10px; cursor: pointer; color: #0366d6; }
+        .file-item { padding: 6px 15px; cursor: pointer; color: #586069; }
+        .file-item:hover { background: #eaecef; }
+        pre { background: #f6f8fa; padding: 20px; border-radius: 6px; }
+        img { max-width: 100%; border-radius: 4px; }
     </style>
 </head>
 <body>
     <div id="sidebar">
-        <div style="padding: 20px;">
+        <div style="padding: 20px; border-bottom: 1px solid #e1e4e8;">
             <h1>Archive</h1>
             <select id="backup-selector" onchange="switchBackup(this.value)"></select>
         </div>
@@ -23,14 +25,8 @@
     </div>
 
     <div id="content-area">
-        <div id="top-window" class="content-window">
-            <h2 id="top-title">Setlist Data</h2>
-            <div id="top-content">Select a file (Click)</div>
-        </div>
-        <div id="bottom-window" class="content-window">
-            <h2 id="bottom-title">Images</h2>
-            <div id="bottom-content">Select a file (Shift + Click)</div>
-        </div>
+        <h2 id="file-title">Select a file</h2>
+        <div id="file-content">File content will display here...</div>
     </div>
 
     <script>
@@ -42,7 +38,7 @@
             const selector = document.getElementById('backup-selector');
             Object.keys(archiveData).sort().reverse().forEach(key => {
                 const opt = document.createElement('option');
-                opt.value = key; opt.innerText = key;
+                opt.value = key; opt.innerText = key.replace(/_/g, ' ');
                 selector.appendChild(opt);
             });
             if (Object.keys(archiveData).length > 0) switchBackup(Object.keys(archiveData).sort().reverse()[0]);
@@ -56,11 +52,12 @@
                 const section = document.createElement('div');
                 section.innerHTML = `<div class="band-title">📁 ${band}</div>`;
                 const uList = document.createElement('ul');
+                uList.style.listStyle = 'none'; uList.padding = 0;
                 files.forEach(file => {
                     const li = document.createElement('li');
                     li.className = 'file-item';
                     li.innerText = file;
-                    li.onclick = (e) => loadFile(backupKey, band, file, e.shiftKey ? 'bottom' : 'top');
+                    li.onclick = () => loadFile(backupKey, band, file);
                     uList.appendChild(li);
                 });
                 section.appendChild(uList);
@@ -68,19 +65,18 @@
             }
         };
 
-        window.loadFile = async (backup, band, file, target) => {
+        window.loadFile = async (backup, band, file) => {
             const path = (backup === 'Resources') ? `resources/${band}/${file}` : `${backup}/${band}/${file}`;
-            document.getElementById(target + '-title').innerText = file;
-            const content = document.getElementById(target + '-content');
+            document.getElementById('file-title').innerText = file;
+            const content = document.getElementById('file-content');
             
             if (/\.(jpg|jpeg|png|gif)$/i.test(file)) {
-                content.innerHTML = `<img src="${path}" style="max-width:100%">`;
+                content.innerHTML = `<img src="${path}">`;
             } else {
                 const res = await fetch(path);
                 content.innerHTML = `<pre>${await res.text()}</pre>`;
             }
         };
-
         init();
     </script>
 </body>
