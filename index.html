@@ -4,15 +4,16 @@
     <meta charset="UTF-8">
     <title>Setlist Archive</title>
     <style>
-        body { margin: 0; font-family: -apple-system, sans-serif; display: flex; flex-direction: column; height: 100vh; background: #fdfdfd; }
-        #nav-bar { padding: 15px; border-bottom: 1px solid #ddd; background: #fff; }
-        #main-container { display: flex; flex: 1; overflow: hidden; }
-        #sidebar { width: 320px; border-right: 1px solid #e1e4e8; background: #f6f8fa; display: flex; flex-direction: column; }
-        #content-area { flex: 1; padding: 30px; overflow-y: auto; }
-        .band-title { font-weight: 600; padding: 10px; cursor: pointer; color: #0366d6; }
-        .file-item { padding: 6px 15px; cursor: pointer; color: #586069; }
-        .file-item:hover { background: #eaecef; }
-        pre { background: #f6f8fa; padding: 20px; border-radius: 6px; border: 1px solid #e1e4e8; }
+      body { margin: 0; font-family: -apple-system, sans-serif; display: flex; flex-direction: column; height: 100vh; background: #fdfdfd; }
+      #nav-bar { padding: 15px; border-bottom: 1px solid #ddd; background: #fff; }
+      #main-container { display: flex; flex: 1; overflow: hidden; }
+      /* Added overflow-y: auto here */
+      #sidebar { width: 320px; border-right: 1px solid #e1e4e8; background: #f6f8fa; display: flex; flex-direction: column; overflow-y: auto; }
+      #content-area { flex: 1; padding: 30px; overflow-y: auto; }
+      .band-title { font-weight: 600; padding: 10px; cursor: pointer; color: #0366d6; }
+      .file-item { padding: 6px 15px; cursor: pointer; color: #586069; }
+      .file-item:hover { background: #eaecef; }
+      pre { background: #f6f8fa; padding: 20px; border-radius: 6px; border: 1px solid #e1e4e8; }
     </style>
 </head>
 <body>
