@@ -2,48 +2,50 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>mjearlb - Archive</title>
+    <title>Setlist Archive</title>
     <style>
-        /* Your original sleek CSS */
-        body { margin: 0; font-family: -apple-system, sans-serif; display: flex; height: 100vh; background: #fdfdfd; }
+        body { margin: 0; font-family: -apple-system, sans-serif; display: flex; flex-direction: column; height: 100vh; background: #fdfdfd; }
+        #nav-bar { padding: 15px; border-bottom: 1px solid #ddd; background: #fff; }
+        #main-container { display: flex; flex: 1; overflow: hidden; }
         #sidebar { width: 320px; border-right: 1px solid #e1e4e8; background: #f6f8fa; display: flex; flex-direction: column; }
         #content-area { flex: 1; padding: 30px; overflow-y: auto; }
         .band-title { font-weight: 600; padding: 10px; cursor: pointer; color: #0366d6; }
         .file-item { padding: 6px 15px; cursor: pointer; color: #586069; }
         .file-item:hover { background: #eaecef; }
-        pre { background: #f6f8fa; padding: 20px; border-radius: 6px; }
-        img { max-width: 100%; border-radius: 4px; }
+        pre { background: #f6f8fa; padding: 20px; border-radius: 6px; border: 1px solid #e1e4e8; }
     </style>
 </head>
 <body>
-    <div id="sidebar">
-        <div style="padding: 20px; border-bottom: 1px solid #e1e4e8;">
-            <h1>Archive</h1>
-            <select id="backup-selector" onchange="switchBackup(this.value)"></select>
+    <nav id="nav-bar">
+        <a href="index.html" style="font-weight: bold; color: #0366d6;">Setlists</a> | 
+        <a href="image_display.html" style="color: #586069;">Image Archive</a>
+    </nav>
+    <div id="main-container">
+        <div id="sidebar">
+            <div style="padding: 20px;">
+                <select id="backup-selector" onchange="switchBackup(this.value)" style="width:100%"></select>
+            </div>
+            <div id="nav-tree"></div>
         </div>
-        <div id="nav-tree"></div>
+        <div id="content-area">
+            <h2 id="file-title">Select a file</h2>
+            <div id="file-content">Choose a folder to start.</div>
+        </div>
     </div>
-
-    <div id="content-area">
-        <h2 id="file-title">Select a file</h2>
-        <div id="file-content">File content will display here...</div>
-    </div>
-
     <script>
         let archiveData = {};
-
         async function init() {
             const res = await fetch('manifest.json');
             archiveData = await res.json();
             const selector = document.getElementById('backup-selector');
-            Object.keys(archiveData).sort().reverse().forEach(key => {
+            const backups = Object.keys(archiveData).filter(k => k.startsWith('Backup')).sort().reverse();
+            backups.forEach(key => {
                 const opt = document.createElement('option');
                 opt.value = key; opt.innerText = key.replace(/_/g, ' ');
                 selector.appendChild(opt);
             });
-            if (Object.keys(archiveData).length > 0) switchBackup(Object.keys(archiveData).sort().reverse()[0]);
+            if (backups.length > 0) switchBackup(backups[0]);
         }
-
         window.switchBackup = (backupKey) => {
             const navTree = document.getElementById('nav-tree');
             navTree.innerHTML = '';
@@ -57,24 +59,15 @@
                     const li = document.createElement('li');
                     li.className = 'file-item';
                     li.innerText = file;
-                    li.onclick = () => loadFile(backupKey, band, file);
+                    li.onclick = async () => {
+                        document.getElementById('file-title').innerText = file;
+                        const res = await fetch(`${backupKey}/${band}/${file}`);
+                        document.getElementById('file-content').innerHTML = `<pre>${await res.text()}</pre>`;
+                    };
                     uList.appendChild(li);
                 });
                 section.appendChild(uList);
                 navTree.appendChild(section);
-            }
-        };
-
-        window.loadFile = async (backup, band, file) => {
-            const path = (backup === 'Resources') ? `resources/${band}/${file}` : `${backup}/${band}/${file}`;
-            document.getElementById('file-title').innerText = file;
-            const content = document.getElementById('file-content');
-            
-            if (/\.(jpg|jpeg|png|gif)$/i.test(file)) {
-                content.innerHTML = `<img src="${path}">`;
-            } else {
-                const res = await fetch(path);
-                content.innerHTML = `<pre>${await res.text()}</pre>`;
             }
         };
         init();

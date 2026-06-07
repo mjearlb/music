@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image Archive</title>
+    <style>
+        body { font-family: sans-serif; padding: 0; margin: 0; }
+        #nav-bar { padding: 15px; border-bottom: 1px solid #ddd; }
+        #gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; padding: 30px; }
+        .img-card { border: 1px solid #ddd; border-radius: 6px; padding: 10px; }
+        img { width: 100%; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <nav id="nav-bar">
+        <a href="index.html" style="color: #586069;">Setlists</a> | 
+        <a href="image_display.html" style="font-weight: bold; color: #0366d6;">Image Archive</a>
+    </nav>
+    <div id="gallery"></div>
+    <script>
+        async function loadImages() {
+            const res = await fetch('manifest.json');
+            const data = await res.json();
+            const resources = data['Resources'] || {};
+            const gallery = document.getElementById('gallery');
+            for (const [band, files] of Object.entries(resources)) {
+                files.forEach(file => {
+                    const card = document.createElement('div');
+                    card.className = 'img-card';
+                    card.innerHTML = `<img src="resources/${band}/${file}"><p>${file}</p>`;
+                    gallery.appendChild(card);
+                });
+            }
+        }
+        loadImages();
+    </script>
+</body>
+</html>
