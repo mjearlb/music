@@ -17,7 +17,7 @@ Set 1:
 [10] Sugaree
 [11] Sugar Magnolia
 [12] Jack Straw
-[13] Playin' in the Band
+[13] Playing in the Band
 [14] Bertha
 [15] Beast of Burden
 [16] Sweet Jane

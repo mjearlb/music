@@ -983,7 +983,6 @@ I'm not sure why, but this was previously listed as a 2 set show, the break bein
     │           ├── eff1ffe7.au
     │           ├── eff1ffec.au
     │           └── eff1fff3.au
-    ├── Jam = 3:30:21 Raw Audacity Audio (Laptop Recording).aup
-    └── trash - 3:30:21 Setlist Notes.txt
+    └── Jam = 3:30:21 Raw Audacity Audio (Laptop Recording).aup
     
-    7 directories, 935 files
+    7 directories, 934 files

@@ -57,8 +57,6 @@ Andrew:
     │   ├── IMG_7028.HEIC
     │   ├── IMG_7029 2.HEIC
     │   └── IMG_7036 2.HEIC
-    ├── output2_ipad.mp4
-    ├── pic.jpg
-    └── pic2.jpg
+    └── View Health Plans - Georgia Access.pdf
     
-    2 directories, 10 files
+    2 directories, 8 files
