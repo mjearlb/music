@@ -32,12 +32,10 @@
     </div>
     <script>
         async function init() {
-            const res = await fetch('manifest.json');
+            const res = await fetch('manifest.json?t=' + new Date().getTime());
             const data = await res.json();
             const resources = data['Resources'] || {};
             const navTree = document.getElementById('nav-tree');
-            const display = document.getElementById('image-display');
-            const title = document.getElementById('file-title');
 
             for (const [band, files] of Object.entries(resources)) {
                 const section = document.createElement('div');
@@ -47,17 +45,15 @@
                 
                 const uList = document.createElement('ul');
                 uList.className = 'file-list';
-                header.onclick = () => {
-                    uList.style.display = uList.style.display === 'block' ? 'none' : 'block';
-                };
+                header.onclick = () => uList.style.display = uList.style.display === 'block' ? 'none' : 'block';
                 
                 files.forEach(file => {
                     const li = document.createElement('li');
                     li.className = 'file-item';
                     li.innerText = file;
                     li.onclick = () => {
-                        title.innerText = file;
-                        display.innerHTML = `<img src="resources/${band}/${file}">`;
+                        document.getElementById('file-title').innerText = file;
+                        document.getElementById('image-display').innerHTML = `<img src="resources/${band}/${file}">`;
                     };
                     uList.appendChild(li);
                 });
