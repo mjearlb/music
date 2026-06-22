@@ -24,7 +24,6 @@ Reviews:
     ├── 12:21:25 - Setlist Notes.txt
     ├── Gallery
     │   └── IMG_2402-preview.HEIC
-    ├── output.mp4
     └── pic.jpg
     
-    2 directories, 5 files
+    2 directories, 4 files
