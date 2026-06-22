@@ -2,6 +2,8 @@ Shower Song
 Andrew Mappes
 
 -----------------------------------------------------------------------
+Original Path Context: Milo Bauman/Shower Song - Chordsheet.txt
+-----------------------------------------------------------------------
 
     /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/Songs
     ├── Comedown Song - Chordsheet.txt

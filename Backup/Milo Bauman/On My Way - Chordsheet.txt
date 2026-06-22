@@ -2,6 +2,8 @@ On My Way (OMW)
 Andrew Mappes
 
 -----------------------------------------------------------------------
+Original Path Context: Milo Bauman/On My Way - Chordsheet.txt
+-----------------------------------------------------------------------
 
     /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/Songs
     ├── Comedown Song - Chordsheet.txt

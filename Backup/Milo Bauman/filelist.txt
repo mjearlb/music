@@ -11,6 +11,8 @@ file 'IMG_7132.mp4'
 
 
 -----------------------------------------------------------------------
+Original Path Context: Milo Bauman/filelist.txt
+-----------------------------------------------------------------------
 
     /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2022/6:16:22
     ├── 6-16-22 - Chapel Crossing Rd 2.m4a

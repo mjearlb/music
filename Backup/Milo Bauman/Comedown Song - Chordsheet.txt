@@ -2,6 +2,8 @@ Comedown Song
 Andrew Mappes
 
 -----------------------------------------------------------------------
+Original Path Context: Milo Bauman/Comedown Song - Chordsheet.txt
+-----------------------------------------------------------------------
 
     /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/Songs
     ├── Comedown Song - Chordsheet.txt

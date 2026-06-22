@@ -2,6 +2,8 @@ Siesta Key
 Andrew Mappes
 
 -----------------------------------------------------------------------
+Original Path Context: Milo Bauman/Siesta Key - Chordsheet.txt
+-----------------------------------------------------------------------
 
     /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/Songs
     ├── Comedown Song - Chordsheet.txt

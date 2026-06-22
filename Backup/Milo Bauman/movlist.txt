@@ -3,6 +3,8 @@ file '2022-06-15_20-30-59_000.mov'
 
 
 -----------------------------------------------------------------------
+Original Path Context: Milo Bauman/movlist.txt
+-----------------------------------------------------------------------
 
     /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2022/6:15:22
     ├── 2022-06-15_20-27-33_000.mov
