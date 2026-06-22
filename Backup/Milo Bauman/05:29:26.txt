@@ -37,8 +37,6 @@ Original Path Context: Milo Bauman/5:29:26 - Setlist Notes.txt
     /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Milo Bauman/2026/5:29:26
     ├── 5-29-26 956am phone.m4a
     ├── 5-29-26 iPad.m4a
-    ├── 5:29:26 - Setlist Notes.txt
-    ├── pic-ipad.jpg
-    └── pic-phone.jpg
+    └── 5:29:26 - Setlist Notes.txt
     
-    1 directory, 5 files
+    1 directory, 3 files

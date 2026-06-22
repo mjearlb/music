@@ -88,7 +88,8 @@ Original Path Context: Milo Bauman/5:10:21 Setlist Notes.txt
     │   │   ├── Audio Files
     │   │   │   ├── Untitled_1#01.wav
     │   │   │   └── Untitled_1#02.wav
-    │   │   └── Freeze Files.nosync
+    │   │   ├── Freeze Files
+    │   │   └── Freeze Files.nosync -> ./Freeze Files
     │   ├── projectData
     │   └── Resources
     │       └── ProjectInformation.plist
@@ -96,4 +97,4 @@ Original Path Context: Milo Bauman/5:10:21 Setlist Notes.txt
     ├── Jam - 5:10:21 (Phone Recording) (Part 2).m4a
     └── Jam - 5:10:21 Setlist Notes.rtf
     
-    10 directories, 15 files
+    11 directories, 15 files
