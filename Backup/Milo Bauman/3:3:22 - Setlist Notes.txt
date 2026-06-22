@@ -38,8 +38,8 @@ Really awesome show.
 Andrew: 
 Andrew says awesome bird song. 
 
-Setlist (Andrew's review continued)-> 
-Warmup: Setup/Tuning (0:00-1:45), Jam [1] (1:45-4:40)
+Setlist (Andrew's review continued);
+Warmup; Setup/Tuning (0:00-1:45), Jam [1] (1:45-4:40)
 Set Up/Tuning 00:00-01:45
 Jam (teasing Moments) 01:45-04:40
 Jam 2 (Milo led riff) 5:20-12:00
@@ -57,7 +57,6 @@ Andrew's attempt at CDT reprise on accident 1:19:57-01:21:25
 Chalkdust Reprise (thank you Milo) 01:21:26-01:23:05
 Deal > 01:23:10-01:28:25
 Slave to the Traffic Light (this time with proper timing on lyrics from Andrew) 01:28:26-01:34:43
-
 
 
 -----------------------------------------------------------------------
