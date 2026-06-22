@@ -2,21 +2,23 @@ import os
 import json
 
 def build_manifest():
-    manifest = {}
+    manifest = {'Setlists': {'_root_': []}, 'Resources': {}}
 
-    # 1. Scan the new 'Setlists' folder
+    # Scan 'Setlists' folder
     if os.path.exists('Setlists'):
-        # We treat 'Setlists' as the top-level key in the manifest
-        manifest['Setlists'] = {}
-        for band in os.listdir('Setlists'):
-            band_path = os.path.join('Setlists', band)
-            if os.path.isdir(band_path):
-                files = [f for f in os.listdir(band_path) if f.endswith('.txt')]
-                manifest['Setlists'][band] = sorted(files)
+        for item in os.listdir('Setlists'):
+            item_path = os.path.join('Setlists', item)
+            if os.path.isdir(item_path):
+                # It's a band folder
+                files = [f for f in os.listdir(item_path) if f.endswith('.txt')]
+                manifest['Setlists'][item] = sorted(files)
+            elif item.endswith('.txt'):
+                # It's a root file
+                manifest['Setlists']['_root_'].append(item)
+        manifest['Setlists']['_root_'].sort()
 
-    # 2. Scan Resources (remains the same)
+    # Scan 'Resources' folder
     if os.path.exists('resources'):
-        manifest['Resources'] = {}
         for band in os.listdir('resources'):
             band_path = os.path.join('resources', band)
             if os.path.isdir(band_path):
@@ -28,4 +30,3 @@ def build_manifest():
 if __name__ == '__main__':
     with open('manifest.json', 'w') as f:
         json.dump(build_manifest(), f, indent=4)
-    print("✨ manifest.json updated with Setlists and Resources!")
