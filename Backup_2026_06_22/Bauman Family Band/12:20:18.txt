@@ -1,0 +1,23 @@
+12/20/18 - Bauman Family Band
+
+Venue: 
+Bauman Family House
+Blairsville, GA
+
+Set 1: (16:20)
+[1] Gone at Last (0:00 - 16:00)
+
+Notes: Metadata has a timestamp of 2018-12-20T16:52:00-0500. 
+
+Reviews: 
+Milo: The "Get Info" section of the video file says 2021, but the hidden metadata says 12/20/18. 
+
+-----------------------------------------------------------------------
+Original Path Context: Bauman Family Band/12:20:18 - Setlist Notes.txt
+-----------------------------------------------------------------------
+
+    /Users/milobauman/Desktop/Various Audio Recordings/Music/Jams/Bauman Family Band/2018:12:20
+    ├── 12:20:18 - Setlist Notes.txt
+    └── IMG_4517.MOV
+    
+    1 directory, 2 files
